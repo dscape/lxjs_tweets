@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 23:28:29 +0000",
+  "from_user": "jvpmamede",
+  "from_user_id": 257018044,
+  "from_user_id_str": "257018044",
+  "from_user_name": "João Mamede",
+  "geo": null,
+  "id": 252188128461332480,
+  "id_str": "252188128461332480",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1847088306/60088_437326629862_7362981_n_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1847088306/60088_437326629862_7362981_n_normal.jpg",
+  "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;",
+  "text": "RT @dscape: RT @dscape: All the talks recordings from #lxjs are now available at http://t.co/XFkLJSGP . @anthonyallen is amazing, you should hire hi ...",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

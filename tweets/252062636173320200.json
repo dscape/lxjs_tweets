@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:09:50 +0000",
+  "from_user": "nafl_costa",
+  "from_user_id": 20506489,
+  "from_user_id_str": "20506489",
+  "from_user_name": "Nuno Costa",
+  "geo": null,
+  "id": 252062636173320200,
+  "id_str": "252062636173320192",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/705859179/ncosta4_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/705859179/ncosta4_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "RT @dshaw: RT @dshaw: Node.js AR Drone Attacks #lxjs http://t.co/FNLzjtcq",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

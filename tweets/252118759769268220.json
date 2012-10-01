@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 18:52:51 +0000",
+  "from_user": "karolinaszczur",
+  "from_user_id": 42864649,
+  "from_user_id_str": "42864649",
+  "from_user_name": "Karolina Szczur",
+  "geo": {
+    "coordinates": [
+      0,
+      0
+    ],
+    "type": "Point"
+  },
+  "id": 252118759769268220,
+  "id_str": "252118759769268226",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2351693930/isv6ecjyfmn3jl4it8y4_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2351693930/isv6ecjyfmn3jl4it8y4_normal.png",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "Current status: I’m on a boat!! #lxjs http://t.co/7e50Ompu",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

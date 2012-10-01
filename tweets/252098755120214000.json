@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:33:21 +0000",
+  "from_user": "mcoquet",
+  "from_user_id": 9855592,
+  "from_user_id_str": "9855592",
+  "from_user_name": "Miguel Coquet",
+  "geo": null,
+  "id": 252098755120214000,
+  "id_str": "252098755120214017",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/58643996/sittingsweater_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/58643996/sittingsweater_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "RT @brianleroux: RT @brianleroux: \"There is a hell for every abstraction if you use it enough.\" - @mikeal #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

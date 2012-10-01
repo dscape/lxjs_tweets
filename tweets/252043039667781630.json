@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:51:58 +0000",
+  "from_user": "jdduarte",
+  "from_user_id": 14164264,
+  "from_user_id_str": "14164264",
+  "from_user_name": "João Duarte",
+  "geo": {
+    "coordinates": [
+      38.707058,
+      -9.145464
+    ],
+    "type": "Point"
+  },
+  "id": 252043039667781630,
+  "id_str": "252043039667781632",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/746387573/3925bc5d2f1cf3bb0712d5feded93ddb_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/746387573/3925bc5d2f1cf3bb0712d5feded93ddb_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "Big thank shout to @paulca and @botdream for teaching little kids how to start hacking with Raspberry Pis at #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

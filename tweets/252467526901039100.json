@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 17:58:43 +0000",
+  "from_user": "jpemartins",
+  "from_user_id": 188831587,
+  "from_user_id_str": "188831587",
+  "from_user_name": "João Martins",
+  "geo": null,
+  "id": 252467526901039100,
+  "id_str": "252467526901039104",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1120539317/avatar_wave_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1120539317/avatar_wave_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "RT @nodejs: RT @nodejs: Our own @piscisaureus talking about the Library of Unicorns and Velociraptors\nhttp://t.co/S5LYpcK6\n\nYou should watch this!",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

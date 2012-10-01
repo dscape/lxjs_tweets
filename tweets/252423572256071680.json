@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 15:04:04 +0000",
+  "from_user": "aca_video",
+  "from_user_id": 807141948,
+  "from_user_id_str": "807141948",
+  "from_user_name": "ACA Video",
+  "geo": null,
+  "id": 252423572256071680,
+  "id_str": "252423572256071680",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2583401152/8hozxtnyj6mwo50t1ufi_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2583401152/8hozxtnyj6mwo50t1ufi_normal.jpeg",
+  "source": "&lt;a href=&quot;http://mobile.twitter.com&quot;&gt;Mobile Web&lt;/a&gt;",
+  "text": "We aim to please! RT @socketstream: #lxjs was a blast! Unbelievably my talk is already up!",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,30 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:42:18 +0000",
+  "from_user": "nunoveloso",
+  "from_user_id": 19092476,
+  "from_user_id_str": "19092476",
+  "from_user_name": "Nuno Veloso",
+  "geo": {
+    "coordinates": [
+      38.73106,
+      -9.145608
+    ],
+    "type": "Point"
+  },
+  "id": 252070808803999740,
+  "id_str": "252070808803999744",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1144969164/06824303-001b-4657-9184-2886f9efc3d9_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1144969164/06824303-001b-4657-9184-2886f9efc3d9_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "@kriskowal @domenic I think if they are constructive there should be more of them. There is no technology that is the absolute truth #lxjs",
+  "to_user": "kriskowal",
+  "to_user_id": 6585632,
+  "to_user_id_str": "6585632",
+  "to_user_name": "Kris Kowal",
+  "in_reply_to_status_id": 252070012926447600,
+  "in_reply_to_status_id_str": "252070012926447616"
+}

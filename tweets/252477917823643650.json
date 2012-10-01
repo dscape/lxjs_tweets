@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 18:40:01 +0000",
+  "from_user": "benatkin",
+  "from_user_id": 64218381,
+  "from_user_id_str": "64218381",
+  "from_user_name": "benatkin.com",
+  "geo": null,
+  "id": 252477917823643650,
+  "id_str": "252477917823643649",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2463226573/67x3pm512ce5kpd0y8go_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2463226573/67x3pm512ce5kpd0y8go_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @substack: RT @substack: the talk I just gave at lxjs is already online! http://t.co/n6ne66Qq",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

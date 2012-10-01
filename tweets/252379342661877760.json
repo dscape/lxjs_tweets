@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 12:08:18 +0000",
+  "from_user": "adambergmark",
+  "from_user_id": 52390625,
+  "from_user_id_str": "52390625",
+  "from_user_name": "Adam Bergmark",
+  "geo": null,
+  "id": 252379342661877760,
+  "id_str": "252379342661877763",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1510069160/adam_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1510069160/adam_normal.jpg",
+  "source": "&lt;a href=&quot;http://www.bitlbee.org/&quot;&gt;BitlBee&lt;/a&gt;",
+  "text": "#fay talk with @christopherdone from #lxjs http://t.co/umv3iyto",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

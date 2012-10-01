@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:04:31 +0000",
+  "from_user": "koriolis",
+  "from_user_id": 14983006,
+  "from_user_id_str": "14983006",
+  "from_user_name": "Nuno Ferreira",
+  "geo": null,
+  "id": 252031102057848830,
+  "id_str": "252031102057848832",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/54956435/your_image_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/54956435/your_image_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "My phone just got called from 351308802657 @ #lxjs does it mean I won a Nexus 7?",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

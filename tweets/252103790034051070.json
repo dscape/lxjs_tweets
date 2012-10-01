@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:53:24 +0000",
+  "from_user": "santiycr",
+  "from_user_id": 13963242,
+  "from_user_id_str": "13963242",
+  "from_user_name": "Santiago S Ordoñez",
+  "geo": {
+    "coordinates": [
+      38.705,
+      -9.161655
+    ],
+    "type": "Point"
+  },
+  "id": 252103790034051070,
+  "id_str": "252103790034051072",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/640943203/IMG_8790_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/640943203/IMG_8790_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "I'm on a boat motherfucker!! #lxjs http://t.co/gp3IkI3P",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

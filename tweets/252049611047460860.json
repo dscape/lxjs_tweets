@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 14:18:04 +0000",
+  "from_user": "piscisaureus",
+  "from_user_id": 197068194,
+  "from_user_id_str": "197068194",
+  "from_user_name": "Bert Belder",
+  "geo": null,
+  "id": 252049611047460860,
+  "id_str": "252049611047460864",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2493483809/il4xi6x8iptd67hyhk3o_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2493483809/il4xi6x8iptd67hyhk3o_normal.png",
+  "source": "&lt;a href=&quot;http://www.metrotwit.com/&quot;&gt;MetroTwit&lt;/a&gt;",
+  "text": "Slides of my #lxjs talk about #libuv: http://t.co/1wjdl7p3",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

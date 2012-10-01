@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 18:37:02 +0000",
+  "from_user": "substack",
+  "from_user_id": 125027291,
+  "from_user_id_str": "125027291",
+  "from_user_name": "James Halliday",
+  "geo": null,
+  "id": 252477169303957500,
+  "id_str": "252477169303957505",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/805387602/laptop-robot_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/805387602/laptop-robot_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "the talk I just gave at lxjs is already online! http://t.co/n6ne66Qq",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:48:07 +0000",
+  "from_user": "richard_hein",
+  "from_user_id": 29301681,
+  "from_user_id_str": "29301681",
+  "from_user_name": "Richard Hein",
+  "geo": null,
+  "id": 252042074633953280,
+  "id_str": "252042074633953280",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2486772537/lh37knbv1ktd0fnkl0eb_normal.gif",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2486772537/lh37knbv1ktd0fnkl0eb_normal.gif",
+  "source": "&lt;a href=&quot;http://www.twitter.com&quot;&gt;Twitter for Windows Phone&lt;/a&gt;",
+  "text": "RT @neuman: Slides from #lxjs about control flow: https://t.co/3G0ppfZ9. Also, a gist of the do.js library and some examples: https://t.co/xODSKTY0.",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

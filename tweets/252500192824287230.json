@@ -1,0 +1,24 @@
+{
+  "created_at": "Sun, 30 Sep 2012 20:08:31 +0000",
+  "from_user": "kernicPanel",
+  "from_user_id": 260871953,
+  "from_user_id_str": "260871953",
+  "from_user_name": "Nicolas Clerc",
+  "geo": null,
+  "id": 252500192824287230,
+  "id_str": "252500192824287232",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1262213562/tache_avatar_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1262213562/tache_avatar_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "@karolinaszczur @lxjs thanks for this coverage. Maybe you could add links to YouTube videos ?",
+  "to_user": "karolinaszczur",
+  "to_user_id": 42864649,
+  "to_user_id_str": "42864649",
+  "to_user_name": "Karolina Szczur",
+  "in_reply_to_status_id": 252479482110308350,
+  "in_reply_to_status_id_str": "252479482110308352"
+}

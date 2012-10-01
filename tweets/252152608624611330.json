@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 21:07:21 +0000",
+  "from_user": "Joaogala85",
+  "from_user_id": 20100161,
+  "from_user_id_str": "20100161",
+  "from_user_name": "João Gala Louros",
+  "geo": null,
+  "id": 252152608624611330,
+  "id_str": "252152608624611330",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2650510615/8bc3302fb805b9de0819658f81461478_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2650510615/8bc3302fb805b9de0819658f81461478_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "@aneves anything about winjs @lxjs ?",
+  "to_user": "aneves",
+  "to_user_id": 23073208,
+  "to_user_id_str": "23073208",
+  "to_user_name": "Alexandre Neves"
+}

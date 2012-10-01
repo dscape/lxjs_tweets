@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 17:56:01 +0000",
+  "from_user": "VictorPereiraB",
+  "from_user_id": 102673537,
+  "from_user_id_str": "102673537",
+  "from_user_name": "Victor Pereira B",
+  "geo": null,
+  "id": 252466848333955070,
+  "id_str": "252466848333955072",
+  "iso_language_code": "da",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+  "source": "&lt;a href=&quot;http://dlvr.it&quot;&gt;dlvr.it&lt;/a&gt;",
+  "text": "Bert Belder - LibUV at LXJS 2012 http://t.co/hz8mvll6",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

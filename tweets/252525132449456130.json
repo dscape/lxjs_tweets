@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 21:47:37 +0000",
+  "from_user": "blissdev",
+  "from_user_id": 8247872,
+  "from_user_id_str": "8247872",
+  "from_user_name": "Jordan Arentsen",
+  "geo": null,
+  "id": 252525132449456130,
+  "id_str": "252525132449456128",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2581659103/ABDBEE80-057B-4A32-8CE5-AFC2085CB992_normal",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2581659103/ABDBEE80-057B-4A32-8CE5-AFC2085CB992_normal",
+  "source": "&lt;a href=&quot;http://tapbots.com&quot;&gt;Tweetbot for Mac&lt;/a&gt;",
+  "text": "RT @ralphholzmann: RT @ralphholzmann: So many @lxjs talks to watch...",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,28 @@
+{
+  "created_at": "Sun, 30 Sep 2012 12:11:07 +0000",
+  "from_user": "pgte",
+  "from_user_id": 16401507,
+  "from_user_id_str": "16401507",
+  "from_user_name": "Pedro Teixeira",
+  "geo": {
+    "coordinates": [
+      38.724346,
+      -9.14942
+    ],
+    "type": "Point"
+  },
+  "id": 252380047313338370,
+  "id_str": "252380047313338368",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2580881227/sdfhi3lkzeb93jyr6utc_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2580881227/sdfhi3lkzeb93jyr6utc_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "Driving across beautiful shiny Lisbon for a family lunch. #lxjs http://t.co/yAziCFch",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

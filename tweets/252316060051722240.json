@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 07:56:51 +0000",
+  "from_user": "miaubiz",
+  "from_user_id": 30510723,
+  "from_user_id_str": "30510723",
+  "from_user_name": "мяузаебись",
+  "geo": null,
+  "id": 252316060051722240,
+  "id_str": "252316060051722240",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "RT @janl: RT @janl: “Callback hell? There is a hell for every fucking abstraction you’ll ever invent.” — @mikeal at #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

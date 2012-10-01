@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 00:17:37 +0000",
+  "from_user": "jdduarte",
+  "from_user_id": 14164264,
+  "from_user_id_str": "14164264",
+  "from_user_name": "João Duarte",
+  "geo": null,
+  "id": 252562877817450500,
+  "id_str": "252562877817450497",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/746387573/3925bc5d2f1cf3bb0712d5feded93ddb_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/746387573/3925bc5d2f1cf3bb0712d5feded93ddb_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "Let's reinvent all the wheels. Let's be pioneers. Let's hack politics. Let's hack business. Talk by @janl at #lxjs http://t.co/prD6r3Du",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

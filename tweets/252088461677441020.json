@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 16:52:27 +0000",
+  "from_user": "MaximeRDY",
+  "from_user_id": 285564464,
+  "from_user_id_str": "285564464",
+  "from_user_name": "Maxime Raverdy",
+  "geo": null,
+  "id": 252088461677441020,
+  "id_str": "252088461677441024",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1681944466/374613_2771232197256_1151526523_33206805_20414808_n_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1681944466/374613_2771232197256_1151526523_33206805_20414808_n_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @janl: RT @janl: “Using frameworks is not a substitute for thinking.” — @karolinaszczur at @lxjs.",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

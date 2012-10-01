@@ -1,0 +1,30 @@
+{
+  "created_at": "Sat, 29 Sep 2012 12:29:53 +0000",
+  "from_user": "3rdEden",
+  "from_user_id": 14350255,
+  "from_user_id_str": "14350255",
+  "from_user_name": "Arnout Kazemier",
+  "geo": {
+    "coordinates": [
+      38.707229,
+      -9.145658
+    ],
+    "type": "Point"
+  },
+  "id": 252022382674448400,
+  "id_str": "252022382674448384",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2645913685/213506c3d06495f6c69adc5db04013e6_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2645913685/213506c3d06495f6c69adc5db04013e6_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "@indexzero @lxjs @dscape phone calls are the new popups ;)",
+  "to_user": "indexzero",
+  "to_user_id": 13696102,
+  "to_user_id_str": "13696102",
+  "to_user_name": "Charlie Robbins",
+  "in_reply_to_status_id": 252022165841510400,
+  "in_reply_to_status_id_str": "252022165841510400"
+}

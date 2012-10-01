@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:34:23 +0000",
+  "from_user": "domenic",
+  "from_user_id": 30968081,
+  "from_user_id_str": "30968081",
+  "from_user_name": "Domenic Denicola",
+  "geo": {
+    "coordinates": [
+      38.706942,
+      -9.145463
+    ],
+    "type": "Point"
+  },
+  "id": 252068816455077900,
+  "id_str": "252068816455077889",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1242456782/172077_1728486445722_1045260014_31786988_5684247_o_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1242456782/172077_1728486445722_1045260014_31786988_5684247_o_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot;&gt;Twitter for iPad&lt;/a&gt;",
+  "text": "People who don't like JavaScript shouldn't speak at JavaScript conferences &gt;_&lt; #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

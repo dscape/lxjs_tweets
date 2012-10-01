@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat, 29 Sep 2012 14:26:59 +0000",
+  "from_user": "paulca",
+  "from_user_id": 815973,
+  "from_user_id_str": "815973",
+  "from_user_name": "Paul Campbell",
+  "geo": null,
+  "id": 252051854010220540,
+  "id_str": "252051854010220544",
+  "iso_language_code": "und",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2358567378/skitched-20120701-211012_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2358567378/skitched-20120701-211012_normal.png",
+  "source": "&lt;a href=&quot;http://tapbots.com&quot;&gt;Tweetbot for Mac&lt;/a&gt;",
+  "text": "@zachinglis — https://t.co/x68ZQ4GX",
+  "to_user": "zachinglis",
+  "to_user_id": 770545,
+  "to_user_id_str": "770545",
+  "to_user_name": "Zach Inglis",
+  "in_reply_to_status_id": 252051750922633200,
+  "in_reply_to_status_id_str": "252051750922633216"
+}

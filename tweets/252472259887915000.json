@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 18:17:32 +0000",
+  "from_user": "st_luke",
+  "from_user_id": 16569603,
+  "from_user_id_str": "16569603",
+  "from_user_name": "Luke Arduini",
+  "geo": null,
+  "id": 252472259887915000,
+  "id_str": "252472259887915008",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2599705873/c79fmky4d1k5mhtw7dhl_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2599705873/c79fmky4d1k5mhtw7dhl_normal.jpeg",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "RT @hij1nx: RT @hij1nx: The talk i found the most interesting from all of the super interesting talks at @lxjs http://t.co/oT3tt22w",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

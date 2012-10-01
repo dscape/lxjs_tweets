@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 14:19:17 +0000",
+  "from_user": "edjafarov",
+  "from_user_id": 18898176,
+  "from_user_id_str": "18898176",
+  "from_user_name": "Eldar Djafarov",
+  "geo": null,
+  "id": 252049915130298370,
+  "id_str": "252049915130298368",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/971019265/25-08-08_1708_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/971019265/25-08-08_1708_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @piscisaureus: RT @piscisaureus: Slides of my #lxjs talk about #libuv: http://t.co/1wjdl7p3",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

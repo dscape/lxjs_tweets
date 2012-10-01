@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 18:28:54 +0000",
+  "from_user": "cistov",
+  "from_user_id": 61183153,
+  "from_user_id_str": "61183153",
+  "from_user_name": "Artur Cistov",
+  "geo": null,
+  "id": 252112733313576960,
+  "id_str": "252112733313576960",
+  "iso_language_code": "pt",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1093279496/449005f6-fb29-45a4-a815-e17861c077ec_bigger_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1093279496/449005f6-fb29-45a4-a815-e17861c077ec_bigger_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "Lisbon Javascript 2012 videos: http://t.co/C8SKIoWs #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

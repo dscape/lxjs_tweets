@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:12:48 +0000",
+  "from_user": "rodriguesqa",
+  "from_user_id": 636181132,
+  "from_user_id_str": "636181132",
+  "from_user_name": "Rodrigo G. Rodrigues",
+  "geo": null,
+  "id": 252063382730051600,
+  "id_str": "252063382730051584",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2399778705/o0210bjwqe594dr2pxap_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2399778705/o0210bjwqe594dr2pxap_normal.jpeg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "@santiycr @lxjs @saucelabs Really? But I`m from Brazil… Possible send it to Brazil?",
+  "to_user": "santiycr",
+  "to_user_id": 13963242,
+  "to_user_id_str": "13963242",
+  "to_user_name": "Santiago S Ordoñez",
+  "in_reply_to_status_id": 252046115585789950,
+  "in_reply_to_status_id_str": "252046115585789952"
+}

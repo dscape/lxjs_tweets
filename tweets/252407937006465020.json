@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 14:01:56 +0000",
+  "from_user": "DavidSantosDias",
+  "from_user_id": 200749589,
+  "from_user_id_str": "200749589",
+  "from_user_name": "David Dias",
+  "geo": null,
+  "id": 252407937006465020,
+  "id_str": "252407937006465026",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1575360005/fortwitter_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1575360005/fortwitter_normal.jpg",
+  "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;",
+  "text": "All LxJS videos are up!\n\nhttp://t.co/Iq9XUGGe",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

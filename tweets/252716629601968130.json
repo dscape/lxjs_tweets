@@ -1,0 +1,24 @@
+{
+  "created_at": "Mon, 01 Oct 2012 10:28:34 +0000",
+  "from_user": "pgte",
+  "from_user_id": 16401507,
+  "from_user_id_str": "16401507",
+  "from_user_name": "Pedro Teixeira",
+  "geo": null,
+  "id": 252716629601968130,
+  "id_str": "252716629601968128",
+  "iso_language_code": "und",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2580881227/sdfhi3lkzeb93jyr6utc_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2580881227/sdfhi3lkzeb93jyr6utc_normal.jpeg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "@shahalpk https://t.co/K4Bp2Ni7",
+  "to_user": "shahalpk",
+  "to_user_id": 135120796,
+  "to_user_id_str": "135120796",
+  "to_user_name": "Shahal Tharique",
+  "in_reply_to_status_id": 252665033706848260,
+  "in_reply_to_status_id_str": "252665033706848257"
+}

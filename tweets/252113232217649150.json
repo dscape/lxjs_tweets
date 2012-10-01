@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat, 29 Sep 2012 18:30:53 +0000",
+  "from_user": "christopherdone",
+  "from_user_id": 60887307,
+  "from_user_id_str": "60887307",
+  "from_user_name": "Chris Done",
+  "geo": null,
+  "id": 252113232217649150,
+  "id_str": "252113232217649153",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2217472258/photo_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2217472258/photo_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "@puffnfresh @mikeal Yeah, I was baffled by that line too. \"Did he just say that?\" Well, a lot of surreal things were said during #lxjs. :-)",
+  "to_user": "puffnfresh",
+  "to_user_id": 34270684,
+  "to_user_id_str": "34270684",
+  "to_user_name": "Brian McKenna",
+  "in_reply_to_status_id": 252093611481653250,
+  "in_reply_to_status_id_str": "252093611481653249"
+}

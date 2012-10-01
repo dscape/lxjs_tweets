@@ -1,0 +1,24 @@
+{
+  "created_at": "Mon, 01 Oct 2012 11:25:25 +0000",
+  "from_user": "jancborchardt",
+  "from_user_id": 389634390,
+  "from_user_id_str": "389634390",
+  "from_user_name": "Jan-C. Borchardt",
+  "geo": null,
+  "id": 252730938465845250,
+  "id_str": "252730938465845249",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2512699283/vo0fown6h8za9po3mx9m_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2512699283/vo0fown6h8za9po3mx9m_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "@janl @lxjs good talk! But the remark about the Linux desktop was uncalled-for.",
+  "to_user": "janl",
+  "to_user_id": 819606,
+  "to_user_id_str": "819606",
+  "to_user_name": "Jan Lehnardt",
+  "in_reply_to_status_id": 252692119930675200,
+  "in_reply_to_status_id_str": "252692119930675201"
+}

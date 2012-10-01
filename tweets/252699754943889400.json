@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 09:21:31 +0000",
+  "from_user": "eamodeorubio",
+  "from_user_id": 42415655,
+  "from_user_id_str": "42415655",
+  "from_user_name": "Enrique Amodeo Rubio",
+  "geo": null,
+  "id": 252699754943889400,
+  "id_str": "252699754943889409",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1632005826/EnriqueAmodeo_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1632005826/EnriqueAmodeo_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @tmpvar: RT @tmpvar: building hardware with javascript (slides) https://t.co/5Q4bxYq3 #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

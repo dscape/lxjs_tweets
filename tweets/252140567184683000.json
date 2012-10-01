@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 20:19:30 +0000",
+  "from_user": "cistov",
+  "from_user_id": 61183153,
+  "from_user_id_str": "61183153",
+  "from_user_name": "Artur Cistov",
+  "geo": null,
+  "id": 252140567184683000,
+  "id_str": "252140567184683009",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1093279496/449005f6-fb29-45a4-a815-e17861c077ec_bigger_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1093279496/449005f6-fb29-45a4-a815-e17861c077ec_bigger_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "Video of #lxjs stream talk by @substack: http://t.co/P26Kwbqo",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

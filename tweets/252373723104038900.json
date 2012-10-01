@@ -1,0 +1,24 @@
+{
+  "created_at": "Sun, 30 Sep 2012 11:45:59 +0000",
+  "from_user": "abtris",
+  "from_user_id": 14685052,
+  "from_user_id_str": "14685052",
+  "from_user_name": "Ladislav Prskavec",
+  "geo": null,
+  "id": 252373723104038900,
+  "id_str": "252373723104038913",
+  "iso_language_code": "pl",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1820083392/ladislav-prskavec_webexpo2011_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1820083392/ladislav-prskavec_webexpo2011_normal.jpg",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "@JosefZamrzla Doufam ze to bylo prinosne a potesil by nejaky blog post o lxjs.",
+  "to_user": "JosefZamrzla",
+  "to_user_id": 390899393,
+  "to_user_id_str": "390899393",
+  "to_user_name": "Josef Zamrzla",
+  "in_reply_to_status_id": 252370722679304200,
+  "in_reply_to_status_id_str": "252370722679304192"
+}

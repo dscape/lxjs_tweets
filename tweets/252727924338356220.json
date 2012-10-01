@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 11:13:27 +0000",
+  "from_user": "pgte",
+  "from_user_id": 16401507,
+  "from_user_id_str": "16401507",
+  "from_user_name": "Pedro Teixeira",
+  "geo": null,
+  "id": 252727924338356220,
+  "id_str": "252727924338356224",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2580881227/sdfhi3lkzeb93jyr6utc_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2580881227/sdfhi3lkzeb93jyr6utc_normal.jpeg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "arrived home after #lxjs, now I just feel like sleeping or going to the movies. \n#tired\nHave to recover for jsconf.eu!",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

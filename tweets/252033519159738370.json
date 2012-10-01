@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:14:08 +0000",
+  "from_user": "hmngomes",
+  "from_user_id": 240176884,
+  "from_user_id_str": "240176884",
+  "from_user_name": "Henrique Gomes",
+  "geo": null,
+  "id": 252033519159738370,
+  "id_str": "252033519159738369",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2620120225/zcv6n4y3ru9mmjlb7qf3_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2620120225/zcv6n4y3ru9mmjlb7qf3_normal.jpeg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "@twtomcat #lxjs You don't! Just an Apple TV Oh, and a Mac to present. :-) #airplay",
+  "to_user": "twtomcat",
+  "to_user_id": 83567168,
+  "to_user_id_str": "83567168",
+  "to_user_name": "Markus Leutwyler",
+  "in_reply_to_status_id": 252032738838843400,
+  "in_reply_to_status_id_str": "252032738838843392"
+}

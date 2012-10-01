@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 22:44:38 +0000",
+  "from_user": "atsuya",
+  "from_user_id": 7483262,
+  "from_user_id_str": "7483262",
+  "from_user_name": "Atsuya Takagi",
+  "geo": null,
+  "id": 252539478244216830,
+  "id_str": "252539478244216833",
+  "iso_language_code": "ja",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1751733115/2d2398b8-21a7-42f0-8ac9-d1cb19c8cc82_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1751733115/2d2398b8-21a7-42f0-8ac9-d1cb19c8cc82_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "#lxjs でのビデオ、面白いの多い。まいけるの、nodeはecmaやw3cやapacheなんかのいわゆる企画作ってる組織を意図的に無視してる、っていうトークは面白かった。",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

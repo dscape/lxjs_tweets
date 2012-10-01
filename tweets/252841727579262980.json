@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 18:45:40 +0000",
+  "from_user": "marcosc",
+  "from_user_id": 4136381,
+  "from_user_id_str": "4136381",
+  "from_user_name": "Marcos Caceres",
+  "geo": null,
+  "id": 252841727579262980,
+  "id_str": "252841727579262976",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2257288755/me_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2257288755/me_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "\"Hmm, let's not fuck the standards bodies\" - Reflections on #lxjs, @mikeal's keynote, standards, and where are going. http://t.co/dUKTVrre",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

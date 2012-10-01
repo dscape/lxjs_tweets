@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 10:01:38 +0000",
+  "from_user": "trodrigues",
+  "from_user_id": 6477652,
+  "from_user_id_str": "6477652",
+  "from_user_name": "Tiago Rodrigues",
+  "geo": null,
+  "id": 252709851136938000,
+  "id_str": "252709851136937984",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1759173127/image1326723005_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1759173127/image1326723005_normal.png",
+  "source": "&lt;a href=&quot;http://tapbots.com&quot;&gt;Tweetbot for Mac&lt;/a&gt;",
+  "text": "so happy and proud that we could put up such an amazing conference in Lisbon! #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

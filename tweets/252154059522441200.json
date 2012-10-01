@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 21:13:07 +0000",
+  "from_user": "jose_pedro_dias",
+  "from_user_id": 37441336,
+  "from_user_id_str": "37441336",
+  "from_user_name": "José Pedro Dias",
+  "geo": null,
+  "id": 252154059522441200,
+  "id_str": "252154059522441216",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/195155381/me01_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/195155381/me01_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @cistov: RT @cistov: Video of #lxjs stream talk by @substack: http://t.co/P26Kwbqo",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:06:08 +0000",
+  "from_user": "jsconfeu",
+  "from_user_id": 64462097,
+  "from_user_id_str": "64462097",
+  "from_user_name": "jsconfeu",
+  "geo": null,
+  "id": 252061708120633340,
+  "id_str": "252061708120633345",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2553280604/csgft9yy7qqpwq8jw4bu_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2553280604/csgft9yy7qqpwq8jw4bu_normal.png",
+  "source": "&lt;a href=&quot;http://tapbots.com&quot;&gt;Tweetbot for Mac&lt;/a&gt;",
+  "text": "RT @jsconf: RT @jsconf: Congrats to @dscape and team for what is clearly an awesome JS event in @lxjs Major props for organizing it!",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 19:15:05 +0000",
+  "from_user": "tek_news",
+  "from_user_id": 63468443,
+  "from_user_id_str": "63468443",
+  "from_user_name": "Tech news (BOT)",
+  "geo": null,
+  "id": 252486744900001800,
+  "id_str": "252486744900001792",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/512625755/icon_normal.gif",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/512625755/icon_normal.gif",
+  "source": "&lt;a href=&quot;http://xa.bi/tek_news&quot;&gt;tek_news_bot&lt;/a&gt;",
+  "text": "HNews: Introduction to libuv [video] http://t.co/o2MevRqs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

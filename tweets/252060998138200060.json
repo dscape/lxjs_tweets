@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:03:19 +0000",
+  "from_user": "JaneyLWang",
+  "from_user_id": 298841704,
+  "from_user_id_str": "298841704",
+  "from_user_name": "Jane Wang",
+  "geo": null,
+  "id": 252060998138200060,
+  "id_str": "252060998138200064",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2463607921/oxmh1uzqlu1gsnmoovr9_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2463607921/oxmh1uzqlu1gsnmoovr9_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "Jealous of the lucky folks in Portugal attending the Lisbon Javascript Conf. #node is all over it and such awesome modules. #NextTime #LXJS",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

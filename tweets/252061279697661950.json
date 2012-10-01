@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:04:26 +0000",
+  "from_user": "igor_stama",
+  "from_user_id": 14722800,
+  "from_user_id_str": "14722800",
+  "from_user_name": "Igor Stamatovski",
+  "geo": null,
+  "id": 252061279697661950,
+  "id_str": "252061279697661952",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/54002398/3020909_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/54002398/3020909_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "RT @maxogden: RT @maxogden: directly in front of @lxjs there is a labor protest organizing, 300,000 expected http://t.co/EaC8t6Rd",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

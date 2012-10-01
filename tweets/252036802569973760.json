@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:27:11 +0000",
+  "from_user": "PatrickHeneise",
+  "from_user_id": 18073349,
+  "from_user_id_str": "18073349",
+  "from_user_name": "Patrick Heneise",
+  "geo": {
+    "coordinates": [
+      38.706953,
+      -9.145455
+    ],
+    "type": "Point"
+  },
+  "id": 252036802569973760,
+  "id_str": "252036802569973760",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1462247153/CIMG2411_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1462247153/CIMG2411_normal.jpg",
+  "source": "&lt;a href=&quot;http://www.apple.com&quot;&gt;Photos on iOS&lt;/a&gt;",
+  "text": "#lxjs conference swag - \"OPEN SOURCE FUCK YEAH\" stickers by @janl and @codeascraft shirts by @garannm. Awsm! http://t.co/GCnPwN7M",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 18:12:55 +0000",
+  "from_user": "antoniodavoli",
+  "from_user_id": 86626503,
+  "from_user_id_str": "86626503",
+  "from_user_name": "Antonio Davoli",
+  "geo": null,
+  "id": 252471099349147650,
+  "id_str": "252471099349147650",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2100791199/319731_3754819636142_2081439163_n_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2100791199/319731_3754819636142_2081439163_n_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "RT @nodejs: RT @nodejs: Our own @piscisaureus talking about the Library of Unicorns and Velociraptors\nhttp://t.co/S5LYpcK6\n\nYou should watch this!",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:15:40 +0000",
+  "from_user": "csanz",
+  "from_user_id": 8187772,
+  "from_user_id_str": "8187772",
+  "from_user_name": "Christian Sanz",
+  "geo": null,
+  "id": 252064106381725700,
+  "id_str": "252064106381725696",
+  "iso_language_code": "tl",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2508560833/xtd090kzd7o30y6p2hon_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2508560833/xtd090kzd7o30y6p2hon_normal.jpeg",
+  "source": "&lt;a href=&quot;http://geekli.st&quot;&gt;Geeklist Inc&lt;/a&gt;",
+  "text": "^5 \"LXJS: Day one\" - @edjafarov http://t.co/MhgVa5rk via @gklst",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

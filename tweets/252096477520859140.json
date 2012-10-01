@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:24:18 +0000",
+  "from_user": "defunctzombie",
+  "from_user_id": 28942235,
+  "from_user_id_str": "28942235",
+  "from_user_name": "Roman Shtylman",
+  "geo": null,
+  "id": 252096477520859140,
+  "id_str": "252096477520859136",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2124090696/7078612761_a09439a2cf_z_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2124090696/7078612761_a09439a2cf_z_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "Major props to the @lxjs organizers and crew for an amazing conference full of great speakers! Thank you @10gen for sponsoring my ticket :)",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

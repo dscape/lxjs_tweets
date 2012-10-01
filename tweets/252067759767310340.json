@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:30:12 +0000",
+  "from_user": "sourishkrout",
+  "from_user_id": 25431643,
+  "from_user_id_str": "25431643",
+  "from_user_name": "Sebastian Tiedtke",
+  "geo": {
+    "coordinates": [
+      38.707211,
+      -9.145791
+    ],
+    "type": "Point"
+  },
+  "id": 252067759767310340,
+  "id_str": "252067759767310336",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2496502006/qkf6bifg1x2qhc9fkzip_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2496502006/qkf6bifg1x2qhc9fkzip_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "Hack your brain and learn a foreign language... It'll make you even hotter! #lxjs #nodepowered http://t.co/TG2BFMes",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:33:03 +0000",
+  "from_user": "puffnfresh",
+  "from_user_id": 34270684,
+  "from_user_id_str": "34270684",
+  "from_user_name": "Brian McKenna",
+  "geo": null,
+  "id": 252038283083780100,
+  "id_str": "252038283083780096",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1313081307/WithMonkey2_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1313081307/WithMonkey2_normal.jpg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "RT @neuman: Slides from #lxjs about control flow: https://t.co/3G0ppfZ9. Also, a gist of the do.js library and some examples: https://t.co/xODSKTY0.",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

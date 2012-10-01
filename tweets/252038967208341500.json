@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:35:47 +0000",
+  "from_user": "serby",
+  "from_user_id": 19900957,
+  "from_user_id_str": "19900957",
+  "from_user_name": "Paul Serby",
+  "geo": null,
+  "id": 252038967208341500,
+  "id_str": "252038967208341504",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1777743610/Bearded_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1777743610/Bearded_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "RT @NodeBowler: If you missed the interview with the bowler on the #lxjs live stream. http://t.co/cJdy5Pm9 it will be on the youtube channel soon.",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

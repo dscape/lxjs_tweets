@@ -1,0 +1,24 @@
+{
+  "created_at": "Sun, 30 Sep 2012 23:25:33 +0000",
+  "from_user": "ralphtheninja",
+  "from_user_id": 39033726,
+  "from_user_id_str": "39033726",
+  "from_user_name": "Lars Magnus Skog",
+  "geo": null,
+  "id": 252549776833380350,
+  "id_str": "252549776833380352",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2453119926/g7aqkk2hr8ahta7p1tnm_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2453119926/g7aqkk2hr8ahta7p1tnm_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "@ricardobeat @lxjs D:o man. Lets keep in touch!",
+  "to_user": "ricardobeat",
+  "to_user_id": 20092786,
+  "to_user_id_str": "20092786",
+  "to_user_name": "Ricardo Tomasi",
+  "in_reply_to_status_id": 252513394639376400,
+  "in_reply_to_status_id_str": "252513394639376385"
+}

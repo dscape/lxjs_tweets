@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:51:50 +0000",
+  "from_user": "inf0rmer",
+  "from_user_id": 15144898,
+  "from_user_id_str": "15144898",
+  "from_user_name": "Bruno Abrantes",
+  "geo": {
+    "coordinates": [
+      0,
+      0
+    ],
+    "type": "Point"
+  },
+  "id": 252043008046931970,
+  "id_str": "252043008046931968",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2411700288/dj5tz2ytzf3i5sii3fd1_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2411700288/dj5tz2ytzf3i5sii3fd1_normal.jpeg",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "Thank you @paulca and @botdream for the cool Raspberry Pis! #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

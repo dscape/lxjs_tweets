@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 02:36:41 +0000",
+  "from_user": "lxvr",
+  "from_user_id": 14135729,
+  "from_user_id_str": "14135729",
+  "from_user_name": "Leo Xavier",
+  "geo": null,
+  "id": 252235487685799940,
+  "id_str": "252235487685799937",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2662404627/939bb6188e3f3b18f07066f64b76bb01_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2662404627/939bb6188e3f3b18f07066f64b76bb01_normal.png",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "Great meeting the folks from @saucelabs, @mozilla and so many others at #LXJS - easily one of the best conferences I've been to. Thank you!",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 08:53:37 +0000",
+  "from_user": "medikoo",
+  "from_user_id": 185553,
+  "from_user_id_str": "185553",
+  "from_user_name": "Mariusz Nowak",
+  "geo": null,
+  "id": 252692735906168830,
+  "id_str": "252692735906168832",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1572312039/git.avatar_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1572312039/git.avatar_normal.jpg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "I see a lot of great content in @lxjs videos: http://t.co/L1KHIaAx it surely was great conference",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

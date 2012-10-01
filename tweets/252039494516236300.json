@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:37:52 +0000",
+  "from_user": "driverpt",
+  "from_user_id": 210653355,
+  "from_user_id_str": "210653355",
+  "from_user_name": "Luís Duarte",
+  "geo": null,
+  "id": 252039494516236300,
+  "id_str": "252039494516236289",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2269065330/12g4ckrqy7v677cwupt5_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2269065330/12g4ckrqy7v677cwupt5_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "RT @asciidisco: Saw a guy watching the #lxjs livestream while sitting in front of the talk.\nMhhh, this might explains the poor wifi performance...",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 12:55:43 +0000",
+  "from_user": "marcosc",
+  "from_user_id": 4136381,
+  "from_user_id_str": "4136381",
+  "from_user_name": "Marcos Caceres",
+  "geo": null,
+  "id": 252028884881657860,
+  "id_str": "252028884881657856",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2257288755/me_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2257288755/me_normal.png",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "@lxjs time for a wifi reset please? I'm burning through my pre-paid on tendering :( #lxjs",
+  "to_user": "lxjs",
+  "to_user_id": 508894285,
+  "to_user_id_str": "508894285",
+  "to_user_name": "LxJs"
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 09:56:50 +0000",
+  "from_user": "lxjs",
+  "from_user_id": 508894285,
+  "from_user_id_str": "508894285",
+  "from_user_name": "LxJs",
+  "geo": null,
+  "id": 252708642430803970,
+  "id_str": "252708642430803968",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2092185459/twitter_logo_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2092185459/twitter_logo_normal.png",
+  "source": "&lt;a href=&quot;http://tapbots.com&quot;&gt;Tweetbot for Mac&lt;/a&gt;",
+  "text": "RT @janl: RT @janl: The video of my @lxjs keynote on JavaScript World Domination: http://t.co/PdUfKxzH\n\nAll other talks are up, too, thanks to @an ...",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

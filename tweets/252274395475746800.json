@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 05:11:17 +0000",
+  "from_user": "joaojeronimo",
+  "from_user_id": 17428183,
+  "from_user_id_str": "17428183",
+  "from_user_name": "João Jerónimo",
+  "geo": null,
+  "id": 252274395475746800,
+  "id_str": "252274395475746816",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1832824166/34291_421706182824_548192824_4610945_62073_n_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1832824166/34291_421706182824_548192824_4610945_62073_n_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "@lxjs try { socket.close(); } catch (err) { if (err.message === \"still in lisbon\") { /* tweet me later today */ } }",
+  "to_user": "lxjs",
+  "to_user_id": 508894285,
+  "to_user_id_str": "508894285",
+  "to_user_name": "LxJs"
+}

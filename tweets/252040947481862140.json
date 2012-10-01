@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:43:39 +0000",
+  "from_user": "joemccann",
+  "from_user_id": 14814762,
+  "from_user_id_str": "14814762",
+  "from_user_name": "☞ Joe McCann ☜",
+  "geo": null,
+  "id": 252040947481862140,
+  "id_str": "252040947481862144",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1759666351/joe_lomod_512x512_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1759666351/joe_lomod_512x512_normal.png",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "RT @hij1nx: Here are the slides for my #lxjs talk -- https://t.co/cm37qP87",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

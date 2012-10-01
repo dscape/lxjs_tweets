@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 21:54:34 +0000",
+  "from_user": "jose_pedro_dias",
+  "from_user_id": 37441336,
+  "from_user_id_str": "37441336",
+  "from_user_name": "José Pedro Dias",
+  "geo": null,
+  "id": 252164493851897860,
+  "id_str": "252164493851897857",
+  "iso_language_code": "pt",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/195155381/me01_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/195155381/me01_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @pgte: RT @pgte: The #lxjs crowd  @ Mercado da Ribeira http://t.co/qHTx4Wxv",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

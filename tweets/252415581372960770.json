@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 14:32:18 +0000",
+  "from_user": "pablodeeleman",
+  "from_user_id": 16627331,
+  "from_user_id_str": "16627331",
+  "from_user_name": "Pablo Deeleman",
+  "geo": null,
+  "id": 252415581372960770,
+  "id_str": "252415581372960768",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/61429133/AVATAR_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/61429133/AVATAR_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitterrific.com&quot;&gt;Twitterrific&lt;/a&gt;",
+  "text": "RT @PatrickHeneise: RT @PatrickHeneise: If you're in or close to #Barcelona and want to talk about #Javascript and #nodejs, ping me for @nodejsbcn #LXJS",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 08:43:30 +0000",
+  "from_user": "nodejsTweets",
+  "from_user_id": 411269452,
+  "from_user_id_str": "411269452",
+  "from_user_name": "nodejs News",
+  "geo": null,
+  "id": 252690189732966400,
+  "id_str": "252690189732966400",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2369297119/cg56e1kzh976w3pg2gtr_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2369297119/cg56e1kzh976w3pg2gtr_normal.png",
+  "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;",
+  "text": "What's behind Node.js: “@nodejs: Our own @piscisaureus talking about the Library of (...)\nhttp://t.co/p3pDKvi0\n\nYou should watch this!”",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

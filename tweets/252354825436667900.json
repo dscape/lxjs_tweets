@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 10:30:53 +0000",
+  "from_user": "xmajox",
+  "from_user_id": 25092115,
+  "from_user_id_str": "25092115",
+  "from_user_name": "Rodrigo Neves",
+  "geo": null,
+  "id": 252354825436667900,
+  "id_str": "252354825436667904",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/334179453/avatar_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/334179453/avatar_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "And that's all folks... Packing up to head back to Germany. Thank you @lxjs guys for an awesome event. See you at LXJS2013 ;)",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

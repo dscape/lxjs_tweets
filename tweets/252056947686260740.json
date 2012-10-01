@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 14:47:14 +0000",
+  "from_user": "bamaral",
+  "from_user_id": 18245945,
+  "from_user_id_str": "18245945",
+  "from_user_name": "Bruno Amaral",
+  "geo": null,
+  "id": 252056947686260740,
+  "id_str": "252056947686260736",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2603921741/99wix5ud56r0vi3ekh68_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2603921741/99wix5ud56r0vi3ekh68_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot;&gt;Twitter for iPad&lt;/a&gt;",
+  "text": "Programming flying robots with node.js at #lxjs Awesome! http://t.co/xibbVvqz",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

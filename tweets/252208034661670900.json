@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 00:47:36 +0000",
+  "from_user": "rjrodger",
+  "from_user_id": 20696610,
+  "from_user_id_str": "20696610",
+  "from_user_name": "Richard Rodger",
+  "geo": null,
+  "id": 252208034661670900,
+  "id_str": "252208034661670912",
+  "iso_language_code": "lt",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1900997386/richard_profile-pic_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1900997386/richard_profile-pic_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "@tralamazza rules! #lxjs http://t.co/fewQfQLK",
+  "to_user": "tralamazza",
+  "to_user_id": 42902766,
+  "to_user_id_str": "42902766",
+  "to_user_name": "Daniel Tralamazza"
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:52:02 +0000",
+  "from_user": "depoisfalamos",
+  "from_user_id": 12299672,
+  "from_user_id_str": "12299672",
+  "from_user_name": "Simão Freitas",
+  "geo": null,
+  "id": 252073259338706940,
+  "id_str": "252073259338706944",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2534370055/wyx7ysfk8aovll47zgf2_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2534370055/wyx7ysfk8aovll47zgf2_normal.png",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "RT @ruiquelhas: RT @ruiquelhas: Holy shit! Haskell at #lxjs! That good old college nostalgia is kicking.",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 00:49:07 +0000",
+  "from_user": "Pg_Fonseca",
+  "from_user_id": 165238586,
+  "from_user_id_str": "165238586",
+  "from_user_name": "Pedro Fonseca",
+  "geo": null,
+  "id": 252208419350646800,
+  "id_str": "252208419350646784",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2538303432/fid4lqy392j60150taii_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2538303432/fid4lqy392j60150taii_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "Where is @lxjs headed?",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

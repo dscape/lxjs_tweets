@@ -1,0 +1,24 @@
+{
+  "created_at": "Mon, 01 Oct 2012 10:17:57 +0000",
+  "from_user": "jedschmidt",
+  "from_user_id": 815114,
+  "from_user_id_str": "815114",
+  "from_user_name": "Jed Schmidt",
+  "geo": null,
+  "id": 252713957670932480,
+  "id_str": "252713957670932481",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1164735503/Jed_Schmidt_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1164735503/Jed_Schmidt_normal.jpeg",
+  "source": "&lt;a href=&quot;http://www.echofon.com/&quot;&gt;Echofon&lt;/a&gt;",
+  "text": "@luismreis bring me tall tales of #lxjs, deal?",
+  "to_user": "luismreis",
+  "to_user_id": 16416919,
+  "to_user_id_str": "16416919",
+  "to_user_name": "luismreis",
+  "in_reply_to_status_id": 252675578367463420,
+  "in_reply_to_status_id_str": "252675578367463424"
+}

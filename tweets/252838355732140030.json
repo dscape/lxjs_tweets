@@ -1,0 +1,24 @@
+{
+  "created_at": "Mon, 01 Oct 2012 18:32:16 +0000",
+  "from_user": "elduderino78",
+  "from_user_id": 14371834,
+  "from_user_id_str": "14371834",
+  "from_user_name": "Gilles Ruppert",
+  "geo": null,
+  "id": 252838355732140030,
+  "id_str": "252838355732140032",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1884816213/avatar2012_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1884816213/avatar2012_normal.jpg",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "@trodrigues you should be! Watched some of the videos: great speakers as well! /cc @pgte @lxjs @dscape @luismreis &amp; the rest :-)",
+  "to_user": "trodrigues",
+  "to_user_id": 6477652,
+  "to_user_id_str": "6477652",
+  "to_user_name": "Tiago Rodrigues",
+  "in_reply_to_status_id": 252709851136938000,
+  "in_reply_to_status_id_str": "252709851136937984"
+}

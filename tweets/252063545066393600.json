@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:13:26 +0000",
+  "from_user": "enzenhofer",
+  "from_user_id": 5508732,
+  "from_user_id_str": "5508732",
+  "from_user_name": "franz enzenhofer",
+  "geo": null,
+  "id": 252063545066393600,
+  "id_str": "252063545066393601",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2517354027/mvuevuc2pcssde96jwya_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2517354027/mvuevuc2pcssde96jwya_normal.jpeg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "@luismreis well, i'm at #lxjs where the action is, so this probably doesn't help much, but hey, i think i'm the only one with a baseball cap",
+  "to_user": "luismreis",
+  "to_user_id": 16416919,
+  "to_user_id_str": "16416919",
+  "to_user_name": "luismreis",
+  "in_reply_to_status_id": 252054516621516800,
+  "in_reply_to_status_id_str": "252054516621516801"
+}

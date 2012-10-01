@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:44:20 +0000",
+  "from_user": "maxw3st",
+  "from_user_id": 160237355,
+  "from_user_id_str": "160237355",
+  "from_user_name": "MaxWest",
+  "geo": null,
+  "id": 252041118588473340,
+  "id_str": "252041118588473344",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2647005226/f9a03166fae16079cbf795d18cff3543_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2647005226/f9a03166fae16079cbf795d18cff3543_normal.png",
+  "source": "&lt;a href=&quot;http://www.metrotwit.com/&quot;&gt;MetroTwit&lt;/a&gt;",
+  "text": "@lxjs Can't hear it over the presenters. It's all good. Protests need to happen.",
+  "to_user": "lxjs",
+  "to_user_id": 508894285,
+  "to_user_id_str": "508894285",
+  "to_user_name": "LxJs",
+  "in_reply_to_status_id": 252040909833768960,
+  "in_reply_to_status_id_str": "252040909833768961"
+}

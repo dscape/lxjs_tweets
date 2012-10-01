@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:51:45 +0000",
+  "from_user": "bamaral",
+  "from_user_id": 18245945,
+  "from_user_id_str": "18245945",
+  "from_user_name": "Bruno Amaral",
+  "geo": null,
+  "id": 252042988329508860,
+  "id_str": "252042988329508865",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2603921741/99wix5ud56r0vi3ekh68_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2603921741/99wix5ud56r0vi3ekh68_normal.jpeg",
+  "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;",
+  "text": "Big thanks to @paulca and @botdream #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

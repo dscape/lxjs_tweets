@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 07:03:46 +0000",
+  "from_user": "3rdEden",
+  "from_user_id": 14350255,
+  "from_user_id_str": "14350255",
+  "from_user_name": "Arnout Kazemier",
+  "geo": null,
+  "id": 252665090820681730,
+  "id_str": "252665090820681728",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2645913685/213506c3d06495f6c69adc5db04013e6_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2645913685/213506c3d06495f6c69adc5db04013e6_normal.png",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "RT @karolinaszczur: RT @karolinaszczur: #lxjs wrap up - http://t.co/StBk8ah4",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

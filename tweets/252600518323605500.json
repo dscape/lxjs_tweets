@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 02:47:11 +0000",
+  "from_user": "jsMagazine",
+  "from_user_id": 139735024,
+  "from_user_id_str": "139735024",
+  "from_user_name": "jsMagazine",
+  "geo": null,
+  "id": 252600518323605500,
+  "id_str": "252600518323605505",
+  "iso_language_code": "ja",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/872208040/jsMagazine_logo_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/872208040/jsMagazine_logo_normal.png",
+  "source": "&lt;a href=&quot;http://js.mgzne.com/&quot;&gt;jsMagazine&lt;/a&gt;",
+  "text": "[js人気情報] Bert Belder - LibUV at LXJS 2012 http://t.co/Rf6mFtlb #javascript",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

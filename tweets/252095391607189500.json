@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:19:59 +0000",
+  "from_user": "g_cortereal",
+  "from_user_id": 356172997,
+  "from_user_id_str": "356172997",
+  "from_user_name": "Guilherme Corte-Real",
+  "geo": null,
+  "id": 252095391607189500,
+  "id_str": "252095391607189506",
+  "iso_language_code": "pt",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1498252116/objectivo1_chocar_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1498252116/objectivo1_chocar_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "@tfcmartins onde e a do lxjs? Fixe, vemo-nos lá",
+  "to_user": "tfcmartins",
+  "to_user_id": 261165414,
+  "to_user_id_str": "261165414",
+  "to_user_name": "Tiago Martins",
+  "in_reply_to_status_id": 252094475604725760,
+  "in_reply_to_status_id_str": "252094475604725760"
+}

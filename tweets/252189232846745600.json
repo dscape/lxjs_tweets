@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 23:32:53 +0000",
+  "from_user": "maxogden",
+  "from_user_id": 12241752,
+  "from_user_id_str": "12241752",
+  "from_user_name": "max ogden",
+  "geo": null,
+  "id": 252189232846745600,
+  "id_str": "252189232846745600",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2558188794/ko6lqflywk079x0mn5gn_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2558188794/ko6lqflywk079x0mn5gn_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "hey internet! go write some databases with @nodejs! watch this short talk I did @lxjs and hopefully get inspired http://t.co/tNgDQ0hc",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

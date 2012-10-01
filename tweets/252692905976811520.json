@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 08:54:18 +0000",
+  "from_user": "fredcerdeira",
+  "from_user_id": 15835118,
+  "from_user_id_str": "15835118",
+  "from_user_name": "Fred Cerdeira",
+  "geo": null,
+  "id": 252692905976811520,
+  "id_str": "252692905976811521",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2074010457/fredcerdeira_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2074010457/fredcerdeira_normal.jpg",
+  "source": "&lt;a href=&quot;http://tapbots.com&quot;&gt;Tweetbot for Mac&lt;/a&gt;",
+  "text": "RT @medikoo: RT @medikoo: I see a lot of great content in @lxjs videos: http://t.co/L1KHIaAx it surely was great conference",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

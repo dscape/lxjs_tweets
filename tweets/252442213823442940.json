@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 16:18:08 +0000",
+  "from_user": "pfilipak",
+  "from_user_id": 43755468,
+  "from_user_id_str": "43755468",
+  "from_user_name": "Paulo Andre Filipak",
+  "geo": null,
+  "id": 252442213823442940,
+  "id_str": "252442213823442945",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1219381673/eu2_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1219381673/eu2_normal.png",
+  "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;",
+  "text": "#niceRT @indexzero Slides from my #lxjs talk today, \"Open Source Like a Boss\" available on @nodejitsu . http://t.co/FVIp55DL #likeaboss",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

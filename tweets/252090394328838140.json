@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:00:08 +0000",
+  "from_user": "VXCompanyEOSS",
+  "from_user_id": 613347995,
+  "from_user_id_str": "613347995",
+  "from_user_name": "VXCompanyEOSS",
+  "geo": null,
+  "id": 252090394328838140,
+  "id_str": "252090394328838144",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2325042394/vx-logo_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2325042394/vx-logo_normal.png",
+  "source": "&lt;a href=&quot;http://www.vxcompany.com&quot;&gt;EOSSretweet&lt;/a&gt;",
+  "text": "RT @spadgos: RT @spadgos: Reading the Little MongoDB book... with hyperlinks... #mongo #lxjs http://t.co/ZP5PuV5A",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

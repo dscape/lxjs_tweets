@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:07:25 +0000",
+  "from_user": "CarterRabasa",
+  "from_user_id": 89318473,
+  "from_user_id_str": "89318473",
+  "from_user_name": "Carter M Rabasa",
+  "geo": {
+    "coordinates": [
+      0,
+      0
+    ],
+    "type": "Point"
+  },
+  "id": 252092228888047600,
+  "id_str": "252092228888047617",
+  "iso_language_code": "pt",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2161165967/carter_twilio_head_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2161165967/carter_twilio_head_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "BoatJS 23 minutes from now at Doca de Alcântara https://t.co/ERd3IT1S #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

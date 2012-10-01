@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 18:29:51 +0000",
+  "from_user": "ecounysis",
+  "from_user_id": 29382304,
+  "from_user_id_str": "29382304",
+  "from_user_name": "Eric Christensen",
+  "geo": null,
+  "id": 252475359570849800,
+  "id_str": "252475359570849792",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2646500761/71910df345173c79157b2b2922edcc63_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2646500761/71910df345173c79157b2b2922edcc63_normal.jpeg",
+  "source": "&lt;a href=&quot;http://ecounysis.com&quot;&gt;ecounysis&lt;/a&gt;",
+  "text": "Introduction to libuv [video] http://t.co/nvdr7yJm",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

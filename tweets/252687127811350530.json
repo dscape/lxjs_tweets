@@ -1,0 +1,24 @@
+{
+  "created_at": "Mon, 01 Oct 2012 08:31:20 +0000",
+  "from_user": "joaojeronimo",
+  "from_user_id": 17428183,
+  "from_user_id_str": "17428183",
+  "from_user_name": "João Jerónimo",
+  "geo": null,
+  "id": 252687127811350530,
+  "id_str": "252687127811350528",
+  "iso_language_code": "pt",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1832824166/34291_421706182824_548192824_4610945_62073_n_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1832824166/34291_421706182824_548192824_4610945_62073_n_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "@daleharvey @lxjs tadaaaaa: http://t.co/qIZ21l2O",
+  "to_user": "daleharvey",
+  "to_user_id": 16378342,
+  "to_user_id_str": "16378342",
+  "to_user_name": "Dale Harvey",
+  "in_reply_to_status_id": 252665725980921860,
+  "in_reply_to_status_id_str": "252665725980921856"
+}

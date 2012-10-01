@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 20:17:08 +0000",
+  "from_user": "elduderino78",
+  "from_user_id": 14371834,
+  "from_user_id_str": "14371834",
+  "from_user_name": "Gilles Ruppert",
+  "geo": null,
+  "id": 252864748432027650,
+  "id_str": "252864748432027651",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1884816213/avatar2012_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1884816213/avatar2012_normal.jpg",
+  "source": "&lt;a href=&quot;http://tapbots.com&quot;&gt;Tweetbot for Mac&lt;/a&gt;",
+  "text": "Playing with streams in node.js after seeing @substack ’s @lxjs talk.",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

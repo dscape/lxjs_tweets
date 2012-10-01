@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:52:54 +0000",
+  "from_user": "scissorjammer",
+  "from_user_id": 14238988,
+  "from_user_id_str": "14238988",
+  "from_user_name": "alex rock",
+  "geo": {
+    "coordinates": [
+      38.707005,
+      -9.145112
+    ],
+    "type": "Point"
+  },
+  "id": 252073476859514880,
+  "id_str": "252073476859514881",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1763481753/2yLNQuuP_normal",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1763481753/2yLNQuuP_normal",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "Awesome talk by @puffnfresh trying to bring functional programming to JavaScript #lxjs.",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

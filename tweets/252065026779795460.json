@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:19:20 +0000",
+  "from_user": "pablodeeleman",
+  "from_user_id": 16627331,
+  "from_user_id_str": "16627331",
+  "from_user_name": "Pablo Deeleman",
+  "geo": null,
+  "id": 252065026779795460,
+  "id_str": "252065026779795457",
+  "iso_language_code": "pt",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/61429133/AVATAR_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/61429133/AVATAR_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitterrific.com&quot;&gt;Twitterrific&lt;/a&gt;",
+  "text": "RT @pgte: RT @pgte: The #lxjs crowd  @ Mercado da Ribeira http://t.co/qHTx4Wxv",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

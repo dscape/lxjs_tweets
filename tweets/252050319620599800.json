@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 14:20:53 +0000",
+  "from_user": "hmngomes",
+  "from_user_id": 240176884,
+  "from_user_id_str": "240176884",
+  "from_user_name": "Henrique Gomes",
+  "geo": null,
+  "id": 252050319620599800,
+  "id_str": "252050319620599809",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2620120225/zcv6n4y3ru9mmjlb7qf3_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2620120225/zcv6n4y3ru9mmjlb7qf3_normal.jpeg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "Flying robots programmed in node.js! Why NOT?  #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 16:12:34 +0000",
+  "from_user": "puffnfresh",
+  "from_user_id": 34270684,
+  "from_user_id_str": "34270684",
+  "from_user_name": "Brian McKenna",
+  "geo": null,
+  "id": 252078426423431170,
+  "id_str": "252078426423431170",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1313081307/WithMonkey2_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1313081307/WithMonkey2_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "RT @asciidisco: RT @asciidisco: Monkey patching is a feature, not a problem of the language. #lxjs #gettingmadaboutroy",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

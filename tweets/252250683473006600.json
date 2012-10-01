@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 03:37:04 +0000",
+  "from_user": "rickasaurus",
+  "from_user_id": 16377511,
+  "from_user_id_str": "16377511",
+  "from_user_name": "Richard Minerich",
+  "geo": null,
+  "id": 252250683473006600,
+  "id_str": "252250683473006592",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2180469639/IphkXI-flipped_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2180469639/IphkXI-flipped_normal.png",
+  "source": "&lt;a href=&quot;http://www.metrotwit.com/&quot;&gt;MetroTwit&lt;/a&gt;",
+  "text": "RT @puffnfresh: RT @puffnfresh: \"Monad hell\" seriously? #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

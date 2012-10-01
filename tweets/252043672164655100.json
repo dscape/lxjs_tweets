@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:54:28 +0000",
+  "from_user": "BTx9000",
+  "from_user_id": 50289086,
+  "from_user_id_str": "50289086",
+  "from_user_name": "Bruno Teixeira",
+  "geo": null,
+  "id": 252043672164655100,
+  "id_str": "252043672164655104",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "@paulca THANK YOU #LXJS",
+  "to_user": "paulca",
+  "to_user_id": 815973,
+  "to_user_id_str": "815973",
+  "to_user_name": "Paul Campbell"
+}

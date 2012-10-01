@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 18:14:56 +0000",
+  "from_user": "rogeriopvl",
+  "from_user_id": 12273492,
+  "from_user_id_str": "12273492",
+  "from_user_name": "Rogério Vicente",
+  "geo": {
+    "coordinates": [
+      38.705054,
+      -9.14541
+    ],
+    "type": "Point"
+  },
+  "id": 252109218839150600,
+  "id_str": "252109218839150592",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2661996256/1088781712dc2ef88b6551c2a8b14108_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2661996256/1088781712dc2ef88b6551c2a8b14108_normal.jpeg",
+  "source": "&lt;a href=&quot;http://foursquare.com&quot;&gt;foursquare&lt;/a&gt;",
+  "text": "On #lxjs Adobe's boat party (@ Terminal Fluvial do Cais do Sodré w/ 2 others) [pic]: http://t.co/fb823d6G",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

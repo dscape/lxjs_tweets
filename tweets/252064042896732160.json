@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:15:25 +0000",
+  "from_user": "enzenhofer",
+  "from_user_id": 5508732,
+  "from_user_id_str": "5508732",
+  "from_user_name": "franz enzenhofer",
+  "geo": null,
+  "id": 252064042896732160,
+  "id_str": "252064042896732160",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2517354027/mvuevuc2pcssde96jwya_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2517354027/mvuevuc2pcssde96jwya_normal.jpeg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "heho, so if you want to decode the QR-code in the presentation, there is a 100% client side QR code reader demo http://t.co/BUd9Omv4 #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

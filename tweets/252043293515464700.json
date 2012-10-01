@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:52:58 +0000",
+  "from_user": "danielcsgomes",
+  "from_user_id": 60532710,
+  "from_user_id_str": "60532710",
+  "from_user_name": "Daniel Gomes",
+  "geo": null,
+  "id": 252043293515464700,
+  "id_str": "252043293515464704",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1878085886/gravatar_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1878085886/gravatar_normal.jpeg",
+  "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;",
+  "text": "Thanks @paulca &amp; @botdream! Awesome job #lxjs!",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

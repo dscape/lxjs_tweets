@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:40:46 +0000",
+  "from_user": "martynrdavies",
+  "from_user_id": 693263,
+  "from_user_id_str": "693263",
+  "from_user_name": "Martyn Davies",
+  "geo": null,
+  "id": 252070422944825340,
+  "id_str": "252070422944825344",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2403204317/jz2bo8yi0gd48barpn7s_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2403204317/jz2bo8yi0gd48barpn7s_normal.png",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "If interested in checking @SendGrid. One of the simplest integrations is with our NodeJS lib: https://t.co/DB94E2mO #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

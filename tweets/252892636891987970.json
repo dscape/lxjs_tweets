@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 22:07:57 +0000",
+  "from_user": "dscape",
+  "from_user_id": 9279552,
+  "from_user_id_str": "9279552",
+  "from_user_name": "Nuno Job",
+  "geo": null,
+  "id": 252892636891987970,
+  "id_str": "252892636891987970",
+  "iso_language_code": "pt",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1759413293/Nuno_Job_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1759413293/Nuno_Job_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @vmische: RT @vmische: New blog post: LXJS 2012 http://t.co/qgFed0RT #lenses #jslens #javascript #lxjs #awesome #fun",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

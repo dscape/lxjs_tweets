@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 21:05:42 +0000",
+  "from_user": "lichray",
+  "from_user_id": 8606452,
+  "from_user_id_str": "8606452",
+  "from_user_name": "願いのカケラ",
+  "geo": null,
+  "id": 252152194135117820,
+  "id_str": "252152194135117824",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2269551460/aono_sq_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2269551460/aono_sq_normal.jpg",
+  "source": "&lt;a href=&quot;http://hotot.org&quot;&gt;Hotot for Chrome&lt;/a&gt;",
+  "text": "RT @brianleroux: RT @brianleroux: \"There is a hell for every abstraction if you use it enough.\" - @mikeal #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

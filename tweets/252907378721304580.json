@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 23:06:32 +0000",
+  "from_user": "alldayhustle",
+  "from_user_id": 741192469,
+  "from_user_id_str": "741192469",
+  "from_user_name": "David Carcamo",
+  "geo": null,
+  "id": 252907378721304580,
+  "id_str": "252907378721304576",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2577106176/image_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2577106176/image_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "RT @karolinaszczur: RT @karolinaszczur: Good framework should provide the essentials and remove boring decisions but allow for personal tastes. @socketstrea ...",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

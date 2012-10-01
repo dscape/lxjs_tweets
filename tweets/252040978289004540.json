@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:43:46 +0000",
+  "from_user": "rodriguesqa",
+  "from_user_id": 636181132,
+  "from_user_id_str": "636181132",
+  "from_user_name": "Rodrigo G. Rodrigues",
+  "geo": null,
+  "id": 252040978289004540,
+  "id_str": "252040978289004544",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2399778705/o0210bjwqe594dr2pxap_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2399778705/o0210bjwqe594dr2pxap_normal.jpeg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "@santiycr @lxjs @saucelabs :  I would like to win a shirt and a sticker of Sauce Labs ...",
+  "to_user": "saucelabs",
+  "to_user_id": 16672130,
+  "to_user_id_str": "16672130",
+  "to_user_name": "Sauce Labs",
+  "in_reply_to_status_id": 251640642747396100,
+  "in_reply_to_status_id_str": "251640642747396096"
+}

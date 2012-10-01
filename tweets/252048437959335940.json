@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 14:13:25 +0000",
+  "from_user": "ffrechina",
+  "from_user_id": 622736360,
+  "from_user_id_str": "622736360",
+  "from_user_name": "Francisco Frechina",
+  "geo": null,
+  "id": 252048437959335940,
+  "id_str": "252048437959335936",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2639014395/7d13d3f8bd24a1aabc656ab9c3b05230_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2639014395/7d13d3f8bd24a1aabc656ab9c3b05230_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "hope a nodetime demo of real applications, instead artificial one :( #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

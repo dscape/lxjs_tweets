@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 22:16:38 +0000",
+  "from_user": "hashonomy_gus",
+  "from_user_id": 316910129,
+  "from_user_id_str": "316910129",
+  "from_user_name": "Gus",
+  "geo": null,
+  "id": 252170044660932600,
+  "id_str": "252170044660932608",
+  "iso_language_code": "pl",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2387378578/r53k81lad72fq3ba5zf4_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2387378578/r53k81lad72fq3ba5zf4_normal.png",
+  "source": "&lt;a href=&quot;http://toptoptopics.com&quot;&gt;toptoptopics&lt;/a&gt;",
+  "text": "Iris npm http://t.co/PgfqWs9W #lxjs #nodejs (via @dscape)",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

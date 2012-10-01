@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 14:01:17 +0000",
+  "from_user": "quimrstorres",
+  "from_user_id": 116720108,
+  "from_user_id_str": "116720108",
+  "from_user_name": "Joaquim Torres",
+  "geo": null,
+  "id": 252045384199856130,
+  "id_str": "252045384199856128",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2654497006/c6b310d7afc79ef6aac7f783e44048bc_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2654497006/c6b310d7afc79ef6aac7f783e44048bc_normal.png",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "Great #libuv talk by @piscisaureus #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:38:30 +0000",
+  "from_user": "maciejmalecki",
+  "from_user_id": 263755874,
+  "from_user_id_str": "263755874",
+  "from_user_name": "Maciej Małecki",
+  "geo": null,
+  "id": 252039650754064400,
+  "id_str": "252039650754064385",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1547225919/IMG_20110917_192531mt_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1547225919/IMG_20110917_192531mt_normal.jpg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "RT @3rdEden: Presenting microsoft stuff on a mac, that how they roll at #lxjs http://t.co/b4S87fVW",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

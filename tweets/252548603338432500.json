@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 23:20:53 +0000",
+  "from_user": "josmasflores",
+  "from_user_id": 21095167,
+  "from_user_id_str": "21095167",
+  "from_user_name": "Jos Flores",
+  "geo": null,
+  "id": 252548603338432500,
+  "id_str": "252548603338432513",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/762300932/twitterProfilePhoto_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/762300932/twitterProfilePhoto_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @pgte: RT @pgte: For me, one of the best talks at #lxjs, @substack - Harnessing the Power of Streams:\nhttp://t.co/gQ4YnUGt",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

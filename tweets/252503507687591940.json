@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 20:21:42 +0000",
+  "from_user": "pkrefta",
+  "from_user_id": 12893422,
+  "from_user_id_str": "12893422",
+  "from_user_name": "Paul Krefta",
+  "geo": null,
+  "id": 252503507687591940,
+  "id_str": "252503507687591936",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/54052535/avatar_48x48_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/54052535/avatar_48x48_normal.jpg",
+  "source": "&lt;a href=&quot;http://www.echofon.com/&quot;&gt;Echofon&lt;/a&gt;",
+  "text": "Great coverage of #lxjs by @karolinaszczur - http://t.co/xddx1Y3O - lot of great stuff here! Thanks!",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

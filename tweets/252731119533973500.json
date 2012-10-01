@@ -1,0 +1,24 @@
+{
+  "created_at": "Mon, 01 Oct 2012 11:26:09 +0000",
+  "from_user": "janl",
+  "from_user_id": 819606,
+  "from_user_id_str": "819606",
+  "from_user_name": "Jan Lehnardt",
+  "geo": null,
+  "id": 252731119533973500,
+  "id_str": "252731119533973504",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1906177736/A3BF8E5D-148E-46EE-9F43-ACA8DC5729CF_normal",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1906177736/A3BF8E5D-148E-46EE-9F43-ACA8DC5729CF_normal",
+  "source": "&lt;a href=&quot;http://tapbots.com&quot;&gt;Tweetbot for Mac&lt;/a&gt;",
+  "text": "@jancborchardt @lxjs I didn’t mean to offend, just show an example of what’s not good enough.",
+  "to_user": "jancborchardt",
+  "to_user_id": 389634390,
+  "to_user_id_str": "389634390",
+  "to_user_name": "Jan-C. Borchardt",
+  "in_reply_to_status_id": 252730938465845250,
+  "in_reply_to_status_id_str": "252730938465845249"
+}

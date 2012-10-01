@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:57:17 +0000",
+  "from_user": "dschmudde",
+  "from_user_id": 191852002,
+  "from_user_id_str": "191852002",
+  "from_user_name": "Schmüdde",
+  "geo": null,
+  "id": 252074576580849660,
+  "id_str": "252074576580849664",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1773786611/MeMoustache_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1773786611/MeMoustache_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "?functional programming in JS? RT @scissorjammer: Awesome talk by @puffnfresh trying to bring functional programming to JavaScript #lxjs.",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

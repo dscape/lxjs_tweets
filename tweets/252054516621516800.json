@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat, 29 Sep 2012 14:37:34 +0000",
+  "from_user": "luismreis",
+  "from_user_id": 16416919,
+  "from_user_id_str": "16416919",
+  "from_user_name": "luismreis",
+  "geo": null,
+  "id": 252054516621516800,
+  "id_str": "252054516621516801",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/539006194/IMG_0670twitter_normal.JPG",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/539006194/IMG_0670twitter_normal.JPG",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "@enzenhofer where are you? I would like to meet you in person! #lxjs",
+  "to_user": "enzenhofer",
+  "to_user_id": 5508732,
+  "to_user_id_str": "5508732",
+  "to_user_name": "franz enzenhofer",
+  "in_reply_to_status_id": 251652661814902800,
+  "in_reply_to_status_id_str": "251652661814902786"
+}

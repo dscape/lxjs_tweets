@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat, 29 Sep 2012 14:04:11 +0000",
+  "from_user": "santiycr",
+  "from_user_id": 13963242,
+  "from_user_id_str": "13963242",
+  "from_user_name": "Santiago S Ordoñez",
+  "geo": null,
+  "id": 252046115585789950,
+  "id_str": "252046115585789952",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/640943203/IMG_8790_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/640943203/IMG_8790_normal.jpg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "@rodriguesqa congrats! You just won one by just asking! Find me tonight and we'll coordinate ;) /cc @lxjs @saucelabs",
+  "to_user": "rodriguesqa",
+  "to_user_id": 636181132,
+  "to_user_id_str": "636181132",
+  "to_user_name": "Rodrigo G. Rodrigues",
+  "in_reply_to_status_id": 252040978289004540,
+  "in_reply_to_status_id_str": "252040978289004544"
+}

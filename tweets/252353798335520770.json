@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 10:26:48 +0000",
+  "from_user": "joaojeronimo",
+  "from_user_id": 17428183,
+  "from_user_id_str": "17428183",
+  "from_user_name": "João Jerónimo",
+  "geo": null,
+  "id": 252353798335520770,
+  "id_str": "252353798335520768",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1832824166/34291_421706182824_548192824_4610945_62073_n_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1832824166/34291_421706182824_548192824_4610945_62073_n_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @janl: RT @janl: “A European guy invented Git, and called things ‘branches’. CouchDB is American, so the same thing is called ‘conflict’.” — @_ ...",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

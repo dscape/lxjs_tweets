@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 16:41:55 +0000",
+  "from_user": "tomboa",
+  "from_user_id": 16561340,
+  "from_user_id_str": "16561340",
+  "from_user_name": "Francisco Baptista",
+  "geo": {
+    "coordinates": [
+      38.704087,
+      -9.165708
+    ],
+    "type": "Point"
+  },
+  "id": 252085809816145920,
+  "id_str": "252085809816145920",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/61144987/face_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/61144987/face_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "@lxjs I've lost my badge. Will I have problem to attend the party?",
+  "to_user": "lxjs",
+  "to_user_id": 508894285,
+  "to_user_id_str": "508894285",
+  "to_user_name": "LxJs"
+}

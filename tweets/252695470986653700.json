@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 09:04:29 +0000",
+  "from_user": "m1ke_wallace",
+  "from_user_id": 16838252,
+  "from_user_id_str": "16838252",
+  "from_user_name": "Mike Wallace",
+  "geo": null,
+  "id": 252695470986653700,
+  "id_str": "252695470986653696",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2633386559/5b3ebc84d8ff4b7cba58d4ac450099f9_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2633386559/5b3ebc84d8ff4b7cba58d4ac450099f9_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @janl: RT @janl: The video of my @lxjs keynote on JavaScript World Domination: http://t.co/PdUfKxzH\n\nAll other talks are up, too, thanks to @an ...",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 15:13:26 +0000",
+  "from_user": "paulcc_two",
+  "from_user_id": 37772487,
+  "from_user_id_str": "37772487",
+  "from_user_name": "Paul Callaghan",
+  "geo": null,
+  "id": 252788319363153920,
+  "id_str": "252788319363153920",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/261069506/bike_head_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/261069506/bike_head_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/tweetbutton&quot;&gt;Tweet Button&lt;/a&gt;",
+  "text": "#LXJS 2012 - @ChristopherDone http://t.co/Evc30HWa &lt;&lt; very cool talk &amp; demo on Fay, a #haskell take on #altjs.",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat, 29 Sep 2012 14:11:06 +0000",
+  "from_user": "ricardobeat",
+  "from_user_id": 20092786,
+  "from_user_id_str": "20092786",
+  "from_user_name": "Ricardo Tomasi",
+  "geo": null,
+  "id": 252047857945825280,
+  "id_str": "252047857945825281",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1591576978/image_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1591576978/image_normal.jpg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "And I'd like to win a Raspberry PI! (does that work too?) @santiycr @rodriguesqa @lxjs @saucelabs",
+  "to_user": "santiycr",
+  "to_user_id": 13963242,
+  "to_user_id_str": "13963242",
+  "to_user_name": "Santiago S Ordoñez",
+  "in_reply_to_status_id": 252046115585789950,
+  "in_reply_to_status_id_str": "252046115585789952"
+}

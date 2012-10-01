@@ -1,0 +1,24 @@
+{
+  "created_at": "Sun, 30 Sep 2012 20:29:44 +0000",
+  "from_user": "admc",
+  "from_user_id": 807025,
+  "from_user_id_str": "807025",
+  "from_user_name": "admc",
+  "geo": null,
+  "id": 252505530084491260,
+  "id_str": "252505530084491264",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2606723757/hdol846rmguauhorxovn_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2606723757/hdol846rmguauhorxovn_normal.png",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "@PatrickHeneise Thanks for the recommendation! I'll check out both of those. #lxjs-fallout",
+  "to_user": "PatrickHeneise",
+  "to_user_id": 18073349,
+  "to_user_id_str": "18073349",
+  "to_user_name": "Patrick Heneise",
+  "in_reply_to_status_id": 252419613713907700,
+  "in_reply_to_status_id_str": "252419613713907713"
+}

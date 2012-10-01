@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:49:16 +0000",
+  "from_user": "notalloweed",
+  "from_user_id": 52494455,
+  "from_user_id_str": "52494455",
+  "from_user_name": "João not Gomes",
+  "geo": null,
+  "id": 252072560781578240,
+  "id_str": "252072560781578241",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/422249608/IMGP1810_normal.JPG",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/422249608/IMGP1810_normal.JPG",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "@awilson820 @lxjs please no more of that evil sauce... deliciously evil",
+  "to_user": "awilson820",
+  "to_user_id": 48824937,
+  "to_user_id_str": "48824937",
+  "to_user_name": "Ashley Wilson",
+  "in_reply_to_status_id": 252072170455445500,
+  "in_reply_to_status_id_str": "252072170455445505"
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 20:38:20 +0000",
+  "from_user": "ramitos",
+  "from_user_id": 15085633,
+  "from_user_id_str": "15085633",
+  "from_user_name": "Sérgio Ramos",
+  "geo": null,
+  "id": 252870083569926140,
+  "id_str": "252870083569926145",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2434105976/gugrnd6cbq1sgvf7cjw3_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2434105976/gugrnd6cbq1sgvf7cjw3_normal.jpeg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "#lxjs it was a blast to meet ppl like @substack @rik24d @twtomcat @piscisaureus @felixge @dshaw @indexzero @mikeal and many others",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

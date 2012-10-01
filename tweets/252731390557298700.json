@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 11:27:13 +0000",
+  "from_user": "gr2m",
+  "from_user_id": 11754732,
+  "from_user_id_str": "11754732",
+  "from_user_name": "Gregor",
+  "geo": null,
+  "id": 252731390557298700,
+  "id_str": "252731390557298688",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2452728810/be6vqio1l0w4wp2j93g1_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2452728810/be6vqio1l0w4wp2j93g1_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "RT @janl: RT @janl: The video of my @lxjs keynote on JavaScript World Domination: http://t.co/PdUfKxzH\n\nAll other talks are up, too, thanks to @an ...",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:54:15 +0000",
+  "from_user": "pedro_carrico",
+  "from_user_id": 29738015,
+  "from_user_id_str": "29738015",
+  "from_user_name": "Pedro Carriço",
+  "geo": null,
+  "id": 252043617466740740,
+  "id_str": "252043617466740736",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/134546067/mac-tux_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/134546067/mac-tux_normal.jpg",
+  "source": "&lt;a href=&quot;http://twicca.r246.jp/&quot;&gt;twicca&lt;/a&gt;",
+  "text": "#lxjs thanks to @paulca and @botdream! Cheers",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

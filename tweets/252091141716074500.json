@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:03:06 +0000",
+  "from_user": "PatrickHeneise",
+  "from_user_id": 18073349,
+  "from_user_id_str": "18073349",
+  "from_user_name": "Patrick Heneise",
+  "geo": null,
+  "id": 252091141716074500,
+  "id_str": "252091141716074496",
+  "iso_language_code": "pl",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1462247153/CIMG2411_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1462247153/CIMG2411_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "#lxjs, #nodejs and @mikeal &lt;3 @github",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

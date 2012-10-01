@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 19:39:08 +0000",
+  "from_user": "jcleblanc",
+  "from_user_id": 15392140,
+  "from_user_id_str": "15392140",
+  "from_user_name": "Jonathan LeBlanc",
+  "geo": null,
+  "id": 252492798077575170,
+  "id_str": "252492798077575168",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1801976050/pic_jon2_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1801976050/pic_jon2_normal.jpg",
+  "source": "&lt;a href=&quot;http://bufferapp.com&quot;&gt;Buffer&lt;/a&gt;",
+  "text": "Introduction to libuv [video] http://t.co/Sipk0D2W",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

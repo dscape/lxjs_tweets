@@ -1,0 +1,30 @@
+{
+  "created_at": "Sun, 30 Sep 2012 12:53:05 +0000",
+  "from_user": "pgte",
+  "from_user_id": 16401507,
+  "from_user_id_str": "16401507",
+  "from_user_name": "Pedro Teixeira",
+  "geo": {
+    "coordinates": [
+      38.752719,
+      -9.145055
+    ],
+    "type": "Point"
+  },
+  "id": 252390610902843400,
+  "id_str": "252390610902843394",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2580881227/sdfhi3lkzeb93jyr6utc_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2580881227/sdfhi3lkzeb93jyr6utc_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "@skry @lxjs @maxogden The factory is called Santanna, in Lisbon. Search the online gellowpages",
+  "to_user": "skry",
+  "to_user_id": 18122941,
+  "to_user_id_str": "18122941",
+  "to_user_name": "skry",
+  "in_reply_to_status_id": 252358796935053300,
+  "in_reply_to_status_id_str": "252358796935053312"
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:49:29 +0000",
+  "from_user": "DaNmarner",
+  "from_user_id": 14373035,
+  "from_user_id_str": "14373035",
+  "from_user_name": "Daniel Duan",
+  "geo": null,
+  "id": 252102815504269300,
+  "id_str": "252102815504269313",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2351384319/tb6378m7nfnodd1fmf78_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2351384319/tb6378m7nfnodd1fmf78_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @brianleroux: RT @brianleroux: \"There is a hell for every abstraction if you use it enough.\" - @mikeal #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

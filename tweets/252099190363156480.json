@@ -1,0 +1,30 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:35:05 +0000",
+  "from_user": "igorsoarez",
+  "from_user_id": 27846755,
+  "from_user_id_str": "27846755",
+  "from_user_name": "Igor Soarez ",
+  "geo": {
+    "coordinates": [
+      38.706437,
+      -9.145467
+    ],
+    "type": "Point"
+  },
+  "id": 252099190363156480,
+  "id_str": "252099190363156480",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2515998431/fbcwnbgahtgaiqt1yzw3_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2515998431/fbcwnbgahtgaiqt1yzw3_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "Thanks @lxjs! It was absolutely AWESOME!",
+  "to_user": "lxjs",
+  "to_user_id": 508894285,
+  "to_user_id_str": "508894285",
+  "to_user_name": "LxJs",
+  "in_reply_to_status_id": 252098776800583680,
+  "in_reply_to_status_id_str": "252098776800583680"
+}

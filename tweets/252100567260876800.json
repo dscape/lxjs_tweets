@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:40:33 +0000",
+  "from_user": "awelonblue",
+  "from_user_id": 341401379,
+  "from_user_id_str": "341401379",
+  "from_user_name": "David Barbour",
+  "geo": null,
+  "id": 252100567260876800,
+  "id_str": "252100567260876800",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2603236243/4cjqjbzaty1qa646u4as_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2603236243/4cjqjbzaty1qa646u4as_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "RT @puffnfresh: RT @puffnfresh: Keep hearing people say that node.js does IO so much better than everything else. Disagree, take a look at GHC's (Haskel ...",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

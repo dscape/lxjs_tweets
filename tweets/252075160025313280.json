@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:59:36 +0000",
+  "from_user": "ruisalgado",
+  "from_user_id": 20683863,
+  "from_user_id_str": "20683863",
+  "from_user_name": "Rui Salgado",
+  "geo": null,
+  "id": 252075160025313280,
+  "id_str": "252075160025313281",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/77612860/ScreenShot040_normal.PNG",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/77612860/ScreenShot040_normal.PNG",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "greatly enjoyed @puffnfresh's presentation at #lxjs. The world needs a production-ready (!?) #roylang",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

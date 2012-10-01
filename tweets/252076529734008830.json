@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 16:05:02 +0000",
+  "from_user": "jose_pedro_dias",
+  "from_user_id": 37441336,
+  "from_user_id_str": "37441336",
+  "from_user_name": "José Pedro Dias",
+  "geo": null,
+  "id": 252076529734008830,
+  "id_str": "252076529734008832",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/195155381/me01_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/195155381/me01_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "The theme of the day is cross compiling / enhancing JS with functional language features (go #haskell) #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

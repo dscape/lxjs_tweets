@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 10:34:40 +0000",
+  "from_user": "peterkz_swe",
+  "from_user_id": 8769542,
+  "from_user_id_str": "8769542",
+  "from_user_name": "Peter Krantz",
+  "geo": null,
+  "id": 252355778181218300,
+  "id_str": "252355778181218304",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2053136106/peterkz2_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2053136106/peterkz2_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "RT @Bischof: RT @Bischof: \"I use #JavaScript because of the same reason my dad votes republican: All my friends are using it.\"  – by @_jhs @ #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

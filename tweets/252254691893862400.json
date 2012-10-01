@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 03:52:59 +0000",
+  "from_user": "arlolra",
+  "from_user_id": 15081268,
+  "from_user_id_str": "15081268",
+  "from_user_name": "Arlo Breault",
+  "geo": null,
+  "id": 252254691893862400,
+  "id_str": "252254691893862401",
+  "iso_language_code": "fr",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/134232316/arlo2_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/134232316/arlo2_normal.jpg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": ";@piscisaureus on libuv at @lxjs  https://t.co/IkVRA8WD",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

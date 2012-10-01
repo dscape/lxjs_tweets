@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:56:50 +0000",
+  "from_user": "admc",
+  "from_user_id": 807025,
+  "from_user_id_str": "807025",
+  "from_user_name": "admc",
+  "geo": {
+    "coordinates": [
+      38.703343,
+      -9.16477
+    ],
+    "type": "Point"
+  },
+  "id": 252104662516396030,
+  "id_str": "252104662516396034",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2606723757/hdol846rmguauhorxovn_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2606723757/hdol846rmguauhorxovn_normal.png",
+  "source": "&lt;a href=&quot;http://path.com/&quot;&gt;Path 2.0&lt;/a&gt;",
+  "text": "@lxjs is like, totally on a boat now, dude - awesome! (with @sourishkrout, Ashley, and Santiago at R. do Conde) [pic] — http://t.co/ba5jXYIu",
+  "to_user": "lxjs",
+  "to_user_id": 508894285,
+  "to_user_id_str": "508894285",
+  "to_user_name": "LxJs"
+}

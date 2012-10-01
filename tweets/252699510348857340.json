@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 09:20:32 +0000",
+  "from_user": "eamodeorubio",
+  "from_user_id": 42415655,
+  "from_user_id_str": "42415655",
+  "from_user_name": "Enrique Amodeo Rubio",
+  "geo": null,
+  "id": 252699510348857340,
+  "id_str": "252699510348857344",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1632005826/EnriqueAmodeo_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1632005826/EnriqueAmodeo_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @janl: RT @janl: The video of my @lxjs keynote on JavaScript World Domination: http://t.co/PdUfKxzH\n\nAll other talks are up, too, thanks to @an ...",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

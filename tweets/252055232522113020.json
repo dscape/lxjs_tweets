@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 14:40:25 +0000",
+  "from_user": "FilipaLacerda",
+  "from_user_id": 35470229,
+  "from_user_id_str": "35470229",
+  "from_user_name": "filipa lacerda",
+  "geo": null,
+  "id": 252055232522113020,
+  "id_str": "252055232522113025",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/203413438/filipa_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/203413438/filipa_normal.jpg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "RT @brianleroux: RT @brianleroux: amazing presentation from @felixge showing us how to survive the robot apocalypse (or perhaps start one) #lxjs #nodecopter",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat, 29 Sep 2012 18:52:41 +0000",
+  "from_user": "streunerlein",
+  "from_user_id": 65117277,
+  "from_user_id_str": "65117277",
+  "from_user_name": "Dominique Sandoz",
+  "geo": null,
+  "id": 252118718732197900,
+  "id_str": "252118718732197889",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/359466317/hacker500_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/359466317/hacker500_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "@lxjs noooo prob!!! :) enjoy it! Was fun two days and a greatly organised conf, thanks for everything!",
+  "to_user": "lxjs",
+  "to_user_id": 508894285,
+  "to_user_id_str": "508894285",
+  "to_user_name": "LxJs",
+  "in_reply_to_status_id": 252118174990995460,
+  "in_reply_to_status_id_str": "252118174990995456"
+}

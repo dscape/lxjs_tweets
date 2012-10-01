@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:16:38 +0000",
+  "from_user": "st_luke",
+  "from_user_id": 16569603,
+  "from_user_id_str": "16569603",
+  "from_user_name": "Luke Arduini",
+  "geo": {
+    "coordinates": [
+      0,
+      0
+    ],
+    "type": "Point"
+  },
+  "id": 252094547381862400,
+  "id_str": "252094547381862400",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2599705873/c79fmky4d1k5mhtw7dhl_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2599705873/c79fmky4d1k5mhtw7dhl_normal.jpeg",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": ";@mikeal promoting more anarchy at @lxjs.",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

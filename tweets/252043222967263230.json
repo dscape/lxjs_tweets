@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:52:41 +0000",
+  "from_user": "notalloweed",
+  "from_user_id": 52494455,
+  "from_user_id_str": "52494455",
+  "from_user_name": "João not Gomes",
+  "geo": null,
+  "id": 252043222967263230,
+  "id_str": "252043222967263232",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/422249608/IMGP1810_normal.JPG",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/422249608/IMGP1810_normal.JPG",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "@paulca Thank you for... uarever. #lxjs",
+  "to_user": "paulca",
+  "to_user_id": 815973,
+  "to_user_id_str": "815973",
+  "to_user_name": "Paul Campbell"
+}

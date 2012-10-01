@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:53:48 +0000",
+  "from_user": "3rdEden",
+  "from_user_id": 14350255,
+  "from_user_id_str": "14350255",
+  "from_user_name": "Arnout Kazemier",
+  "geo": {
+    "coordinates": [
+      38.707286,
+      -9.145475
+    ],
+    "type": "Point"
+  },
+  "id": 252043502031077380,
+  "id_str": "252043502031077377",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2645913685/213506c3d06495f6c69adc5db04013e6_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2645913685/213506c3d06495f6c69adc5db04013e6_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "#lxjs thanks a lot for the more than amazing #js conf @paulca and @botdream",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:03:26 +0000",
+  "from_user": "beaugunderson",
+  "from_user_id": 5746882,
+  "from_user_id_str": "5746882",
+  "from_user_name": "Beau Gunderson",
+  "geo": null,
+  "id": 252091223643406340,
+  "id_str": "252091223643406336",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1967178954/16947_1164977896080_1576860066_30408639_7255368_n_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1967178954/16947_1164977896080_1576860066_30408639_7255368_n_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @janl: RT @janl: “Callback hell? There is a hell for every fucking abstraction you’ll ever invent.” — @mikeal at #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

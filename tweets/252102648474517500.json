@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:48:49 +0000",
+  "from_user": "flashpatric",
+  "from_user_id": 141190651,
+  "from_user_id_str": "141190651",
+  "from_user_name": "Patric Lanhed",
+  "geo": {
+    "coordinates": [
+      55.720054,
+      13.024195
+    ],
+    "type": "Point"
+  },
+  "id": 252102648474517500,
+  "id_str": "252102648474517504",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1669317008/patric.jonsson_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1669317008/patric.jonsson_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "#lxjs enlighten me bitte! A conference, framework or a new alien hardware??!",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

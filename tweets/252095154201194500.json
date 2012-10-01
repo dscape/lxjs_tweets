@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:19:03 +0000",
+  "from_user": "SlexAxton",
+  "from_user_id": 12806822,
+  "from_user_id_str": "12806822",
+  "from_user_name": "Alex Sexton",
+  "geo": null,
+  "id": 252095154201194500,
+  "id_str": "252095154201194496",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2603391598/o7ychivtlyhssq5ixxpy_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2603391598/o7ychivtlyhssq5ixxpy_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "Conference envy. Must be patient. #lxjs #bogotaconf",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

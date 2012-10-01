@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 21:28:34 +0000",
+  "from_user": "DavidSantosDias",
+  "from_user_id": 200749589,
+  "from_user_id_str": "200749589",
+  "from_user_name": "David Dias",
+  "geo": {
+    "coordinates": [
+      38.711747,
+      -9.144228
+    ],
+    "type": "Point"
+  },
+  "id": 252157946207813630,
+  "id_str": "252157946207813632",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1575360005/fortwitter_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1575360005/fortwitter_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "@lxjs LxJs is over but the party is not! Join us at duplex bar, at bairro alto! http://t.co/6MQlt7YI",
+  "to_user": "lxjs",
+  "to_user_id": 508894285,
+  "to_user_id_str": "508894285",
+  "to_user_name": "LxJs"
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 10:13:23 +0000",
+  "from_user": "javascript_news",
+  "from_user_id": 17443473,
+  "from_user_id_str": "17443473",
+  "from_user_name": "JavaScript News",
+  "geo": null,
+  "id": 252350420515708930,
+  "id_str": "252350420515708928",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/64724299/Bild_3_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/64724299/Bild_3_normal.png",
+  "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;",
+  "text": "LXJS recordings: great JavaScript talks http://t.co/xuvOjlN7",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

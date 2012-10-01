@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:48:38 +0000",
+  "from_user": "scissorjammer",
+  "from_user_id": 14238988,
+  "from_user_id_str": "14238988",
+  "from_user_name": "alex rock",
+  "geo": {
+    "coordinates": [
+      38.699947,
+      -9.174358
+    ],
+    "type": "Point"
+  },
+  "id": 252102602563674100,
+  "id_str": "252102602563674112",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1763481753/2yLNQuuP_normal",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1763481753/2yLNQuuP_normal",
+  "source": "&lt;a href=&quot;http://foursquare.com&quot;&gt;foursquare&lt;/a&gt;",
+  "text": "Pretty sure this is a ploy to rub out all the js engineers. #lxjs (@ LXJS boat.js) [pic]: http://t.co/p0Amnm26",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

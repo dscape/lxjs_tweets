@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:44:35 +0000",
+  "from_user": "thesmith",
+  "from_user_id": 788695,
+  "from_user_id_str": "788695",
+  "from_user_name": "Ben Smith",
+  "geo": null,
+  "id": 252041185034653700,
+  "id_str": "252041185034653696",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/24543892/me_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/24543892/me_normal.jpg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "Currently learning about the #nodejs internals while Lisbon protests around us.   #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

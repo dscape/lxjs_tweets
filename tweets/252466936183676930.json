@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 17:56:22 +0000",
+  "from_user": "LetsNode",
+  "from_user_id": 562866275,
+  "from_user_id_str": "562866275",
+  "from_user_name": "Lets Node",
+  "geo": null,
+  "id": 252466936183676930,
+  "id_str": "252466936183676928",
+  "iso_language_code": "nl",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2165141037/letsnode_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2165141037/letsnode_normal.png",
+  "source": "&lt;a href=&quot;http://ifttt.com&quot;&gt;IFTTT&lt;/a&gt;",
+  "text": "Bert Belder - LibUV at LXJS 2012 http://t.co/lDFdptZX #NodeJS #LetsNode",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 20:34:28 +0000",
+  "from_user": "lxjs",
+  "from_user_id": 508894285,
+  "from_user_id_str": "508894285",
+  "from_user_name": "LxJs",
+  "geo": null,
+  "id": 252144333644521470,
+  "id_str": "252144333644521472",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2092185459/twitter_logo_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2092185459/twitter_logo_normal.png",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "RT @igorsoarez: RT @igorsoarez: @lxjs #lxjs goes to Bairro Alto https://t.co/fKFE61uU",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

@@ -1,0 +1,28 @@
+{
+  "created_at": "Mon, 01 Oct 2012 14:34:29 +0000",
+  "from_user": "_jhs",
+  "from_user_id": 16281277,
+  "from_user_id_str": "16281277",
+  "from_user_name": "Jason Smith",
+  "geo": {
+    "coordinates": [
+      13.719607,
+      100.540499
+    ],
+    "type": "Point"
+  },
+  "id": 252778517501190140,
+  "id_str": "252778517501190145",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1805249182/Jason_meditate2_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1805249182/Jason_meditate2_normal.jpg",
+  "source": "&lt;a href=&quot;http://tapbots.com&quot;&gt;Tweetbot for Mac&lt;/a&gt;",
+  "text": "Watched my talk at #lxjs; realized how many of @jchris’s mannerisms I’ve picked up. He grows on me, like a fungus.",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

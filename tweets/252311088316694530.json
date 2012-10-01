@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 07:37:05 +0000",
+  "from_user": "josefrichter",
+  "from_user_id": 15659000,
+  "from_user_id_str": "15659000",
+  "from_user_name": "Josef Richter",
+  "geo": null,
+  "id": 252311088316694530,
+  "id_str": "252311088316694528",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2542254305/j9knti09t8khbsi1me8k_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2542254305/j9knti09t8khbsi1me8k_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "RT @PatrickHeneise: RT @PatrickHeneise: If you're in or close to #Barcelona and want to talk about #Javascript and #nodejs, ping me for @nodejsbcn #LXJS",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

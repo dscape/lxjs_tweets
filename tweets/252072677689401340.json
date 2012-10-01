@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:49:44 +0000",
+  "from_user": "xcambar",
+  "from_user_id": 15971270,
+  "from_user_id_str": "15971270",
+  "from_user_name": "xcambar",
+  "geo": null,
+  "id": 252072677689401340,
+  "id_str": "252072677689401344",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1873134717/DSC_0163_2_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1873134717/DSC_0163_2_normal.jpg",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "RT @asciidisco: RT @asciidisco: Monkey patching is a feature, not a problem of the language. #lxjs #gettingmadaboutroy",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

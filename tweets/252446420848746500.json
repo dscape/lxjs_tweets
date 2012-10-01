@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 16:34:51 +0000",
+  "from_user": "fb55",
+  "from_user_id": 27341428,
+  "from_user_id_str": "27341428",
+  "from_user_name": "Felix Böhm",
+  "geo": null,
+  "id": 252446420848746500,
+  "id_str": "252446420848746496",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1267026618/eightbit-11f67126-f5a3-4f76-813c-c523041587c6_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1267026618/eightbit-11f67126-f5a3-4f76-813c-c523041587c6_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot;&gt;Twitter for iPad&lt;/a&gt;",
+  "text": "Watching some #lxjs talks. Too sad I couldn't make it.",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

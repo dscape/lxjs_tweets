@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 16:57:13 +0000",
+  "from_user": "lxjs",
+  "from_user_id": 508894285,
+  "from_user_id_str": "508894285",
+  "from_user_name": "LxJs",
+  "geo": null,
+  "id": 252089662422786050,
+  "id_str": "252089662422786050",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2092185459/twitter_logo_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2092185459/twitter_logo_normal.png",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "RT @phonegap: RT @phonegap: Proud sponsor alert: RT @lxjs: check http://t.co/mQHiMpAz for Adobe BoatJS party details! talk to us if you have any quest ...",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

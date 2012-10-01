@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 16:12:07 +0000",
+  "from_user": "mkuklis",
+  "from_user_id": 13270262,
+  "from_user_id_str": "13270262",
+  "from_user_name": "Michal Kuklis",
+  "geo": null,
+  "id": 252078312514527230,
+  "id_str": "252078312514527232",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2386350316/qccep191ci7qhf4furka_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2386350316/qccep191ci7qhf4furka_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @dshaw: RT @dshaw: Node.js AR Drone Attacks #lxjs http://t.co/FNLzjtcq",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

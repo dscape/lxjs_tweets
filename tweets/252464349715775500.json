@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 17:46:06 +0000",
+  "from_user": "tralamazza",
+  "from_user_id": 42902766,
+  "from_user_id_str": "42902766",
+  "from_user_name": "Daniel Tralamazza",
+  "geo": null,
+  "id": 252464349715775500,
+  "id_str": "252464349715775488",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2354619078/1i5hg2l3hrzivxh7pau1_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2354619078/1i5hg2l3hrzivxh7pau1_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "So how awesomesauce is the SauceLabs team at #lxjs ? \"One thousand\". Cheers @admc, @sourishkrout, smAshley and Santi",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

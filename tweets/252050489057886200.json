@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 14:21:34 +0000",
+  "from_user": "bmccoelho",
+  "from_user_id": 29689478,
+  "from_user_id_str": "29689478",
+  "from_user_name": "bruno coelho",
+  "geo": null,
+  "id": 252050489057886200,
+  "id_str": "252050489057886208",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2651706822/a904ce865f3a3d6a2b2d994ba793e1f8_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2651706822/a904ce865f3a3d6a2b2d994ba793e1f8_normal.png",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "RT @jsconf: RT @jsconf: Congrats to @dscape and team for what is clearly an awesome JS event in @lxjs Major props for organizing it!",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

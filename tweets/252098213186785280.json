@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:31:13 +0000",
+  "from_user": "tfcmartins",
+  "from_user_id": 261165414,
+  "from_user_id_str": "261165414",
+  "from_user_name": "Tiago Martins",
+  "geo": null,
+  "id": 252098213186785280,
+  "id_str": "252098213186785280",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2173861644/site-tiago-icon_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2173861644/site-tiago-icon_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "On the bus for the BoatJS #lxjs http://t.co/YdECp2ph",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

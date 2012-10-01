@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 17:52:38 +0000",
+  "from_user": "planetnodejs",
+  "from_user_id": 458323347,
+  "from_user_id_str": "458323347",
+  "from_user_name": "Planet node.js",
+  "geo": null,
+  "id": 252465996080750600,
+  "id_str": "252465996080750592",
+  "iso_language_code": "da",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1741275660/nodejs-green_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1741275660/nodejs-green_normal.png",
+  "source": "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;",
+  "text": "Bert Belder - LibUV at LXJS 2012: Node core committer Bert Belder gave a talk at\nLXJS.  If you are inter... http://t.co/FrxmyqDC #nodejs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

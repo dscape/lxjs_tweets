@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 11:11:59 +0000",
+  "from_user": "juliangruber",
+  "from_user_id": 324544130,
+  "from_user_id_str": "324544130",
+  "from_user_name": "Julian Gruber",
+  "geo": null,
+  "id": 252365168321912830,
+  "id_str": "252365168321912832",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2109392196/bulbpx_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2109392196/bulbpx_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @maxogden: RT @maxogden: best conference swag ever: @lxjs produced custom ceramic tiles (note the curlies) http://t.co/Ym78ikNW",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

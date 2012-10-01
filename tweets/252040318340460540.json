@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:41:09 +0000",
+  "from_user": "admc",
+  "from_user_id": 807025,
+  "from_user_id_str": "807025",
+  "from_user_name": "admc",
+  "geo": {
+    "coordinates": [
+      38.707083,
+      -9.145644
+    ],
+    "type": "Point"
+  },
+  "id": 252040318340460540,
+  "id_str": "252040318340460544",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2606723757/hdol846rmguauhorxovn_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2606723757/hdol846rmguauhorxovn_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "Conference driven development done for now, my talk is as ready as it's going to be. Watch live at 8am PST: http://t.co/Bq9zGvvS @lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

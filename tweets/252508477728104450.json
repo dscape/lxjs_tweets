@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 20:41:27 +0000",
+  "from_user": "BillBarnhill",
+  "from_user_id": 18232237,
+  "from_user_id_str": "18232237",
+  "from_user_name": "BillBarnhill",
+  "geo": null,
+  "id": 252508477728104450,
+  "id_str": "252508477728104448",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/68668975/avatar-180px-Leonardo_polyhedra_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/68668975/avatar-180px-Leonardo_polyhedra_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @vgholkar: RT @vgholkar: Another thing I loved about #lxjs was the open minded participants #erlang #haskell #c #mongo #couch #dart",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

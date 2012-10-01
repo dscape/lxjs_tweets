@@ -1,0 +1,22 @@
+{
+  "created_at": "Mon, 01 Oct 2012 18:21:42 +0000",
+  "from_user": "joekanakaraj",
+  "from_user_id": 14220399,
+  "from_user_id_str": "14220399",
+  "from_user_name": "Joe K",
+  "geo": null,
+  "id": 252835697944309760,
+  "id_str": "252835697944309760",
+  "iso_language_code": "pt",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2269875352/zdxqt2wcb8c56c39qoeq_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2269875352/zdxqt2wcb8c56c39qoeq_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/tweetbutton&quot;&gt;Tweet Button&lt;/a&gt;",
+  "text": "LXJS 2012 - Lucas Hrabovsky - ex.fm and node.js: http://t.co/kGtwREFe via @youtube",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

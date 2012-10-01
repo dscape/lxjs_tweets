@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:52:12 +0000",
+  "from_user": "ronaldofsousa",
+  "from_user_id": 86989131,
+  "from_user_id_str": "86989131",
+  "from_user_name": "Ronaldo Sousa",
+  "geo": null,
+  "id": 252043099289825280,
+  "id_str": "252043099289825281",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2610276208/vvo7iqdbdu17j40jmmsy_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2610276208/vvo7iqdbdu17j40jmmsy_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "Big thanks to @paulca and @botdream help with #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

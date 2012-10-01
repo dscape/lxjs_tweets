@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:32:54 +0000",
+  "from_user": "mcoquet",
+  "from_user_id": 9855592,
+  "from_user_id_str": "9855592",
+  "from_user_name": "Miguel Coquet",
+  "geo": {
+    "coordinates": [
+      38.708563,
+      -9.145082
+    ],
+    "type": "Point"
+  },
+  "id": 252098642863853570,
+  "id_str": "252098642863853569",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/58643996/sittingsweater_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/58643996/sittingsweater_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "#lxjs im on a bus!",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

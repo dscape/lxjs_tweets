@@ -1,0 +1,30 @@
+{
+  "created_at": "Sat, 29 Sep 2012 15:35:37 +0000",
+  "from_user": "santiycr",
+  "from_user_id": 13963242,
+  "from_user_id_str": "13963242",
+  "from_user_name": "Santiago S Ordoñez",
+  "geo": {
+    "coordinates": [
+      38.706559,
+      -9.143663
+    ],
+    "type": "Point"
+  },
+  "id": 252069127332708350,
+  "id_str": "252069127332708352",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/640943203/IMG_8790_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/640943203/IMG_8790_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "@rodriguesqa we can figure something out. Are you in Brazil right now? Thought you were at @lxjs",
+  "to_user": "rodriguesqa",
+  "to_user_id": 636181132,
+  "to_user_id_str": "636181132",
+  "to_user_name": "Rodrigo G. Rodrigues",
+  "in_reply_to_status_id": 252063382730051600,
+  "in_reply_to_status_id_str": "252063382730051584"
+}

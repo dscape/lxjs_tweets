@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 10:00:43 +0000",
+  "from_user": "neuman",
+  "from_user_id": 6990452,
+  "from_user_id_str": "6990452",
+  "from_user_name": "Neuman",
+  "geo": null,
+  "id": 252347232307802100,
+  "id_str": "252347232307802112",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2626011307/bh6esoxg35dqvmv2ylk7_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2626011307/bh6esoxg35dqvmv2ylk7_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "LxJS is good people. A little bit sad to leave this city so soon. See you all next year hopefully!",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

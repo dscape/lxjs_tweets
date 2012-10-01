@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:32:07 +0000",
+  "from_user": "twtomcat",
+  "from_user_id": 83567168,
+  "from_user_id_str": "83567168",
+  "from_user_name": "Markus Leutwyler",
+  "geo": {
+    "coordinates": [
+      38.76961,
+      -9.131699
+    ],
+    "type": "Point"
+  },
+  "id": 252098446159405060,
+  "id_str": "252098446159405056",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1729280143/pic2s_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1729280143/pic2s_normal.jpg",
+  "source": "&lt;a href=&quot;http://foursquare.com&quot;&gt;foursquare&lt;/a&gt;",
+  "text": "Bye, bye Lisbon #lxjs (@ Aeroporto de Lisboa (LIS) w/ 4 others) http://t.co/IWrMcdJm",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

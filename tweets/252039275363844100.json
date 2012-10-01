@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:37:00 +0000",
+  "from_user": "rik24d",
+  "from_user_id": 16551180,
+  "from_user_id_str": "16551180",
+  "from_user_name": "Anthony Ricaud",
+  "geo": null,
+  "id": 252039275363844100,
+  "id_str": "252039275363844096",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/61100847/1397208416_7f54f19f12_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/61100847/1397208416_7f54f19f12_normal.jpg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "And my slides about Mozilla's mobile initiatives are online: http://t.co/zuIlS7bq\n\ncc @lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

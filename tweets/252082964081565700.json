@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 16:30:36 +0000",
+  "from_user": "nunoveloso",
+  "from_user_id": 19092476,
+  "from_user_id_str": "19092476",
+  "from_user_name": "Nuno Veloso",
+  "geo": null,
+  "id": 252082964081565700,
+  "id_str": "252082964081565700",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1144969164/06824303-001b-4657-9184-2886f9efc3d9_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1144969164/06824303-001b-4657-9184-2886f9efc3d9_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/download/android&quot;&gt;Twitter for Android&lt;/a&gt;",
+  "text": "RT @jsconf: RT @jsconf: Congrats to @dscape and team for what is clearly an awesome JS event in @lxjs Major props for organizing it!",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

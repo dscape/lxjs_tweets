@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 16:18:29 +0000",
+  "from_user": "CascadiaJS",
+  "from_user_id": 716869094,
+  "from_user_id_str": "716869094",
+  "from_user_name": "CascadiaJS",
+  "geo": null,
+  "id": 252079914285662200,
+  "id_str": "252079914285662208",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2649413318/ed881f245f4454f01d9a67b874c657cb_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2649413318/ed881f245f4454f01d9a67b874c657cb_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "If anyone at #lxjs wants to speak at #cascadiajs, we're doing our CFS using @github &amp; pull requests: https://t.co/84evyucB #opensourceFTW",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

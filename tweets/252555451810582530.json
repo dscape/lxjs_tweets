@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 23:48:06 +0000",
+  "from_user": "vicapow",
+  "from_user_id": 19411223,
+  "from_user_id_str": "19411223",
+  "from_user_name": "Victor Powell",
+  "geo": null,
+  "id": 252555451810582530,
+  "id_str": "252555451810582529",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1860420960/Screen_Shot_2012-02-28_at_11.49.01_AM_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1860420960/Screen_Shot_2012-02-28_at_11.49.01_AM_normal.png",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "RT @hij1nx: RT @hij1nx: The talk i found the most interesting from all of the super interesting talks at @lxjs http://t.co/oT3tt22w",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

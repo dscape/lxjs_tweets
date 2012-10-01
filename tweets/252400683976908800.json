@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 13:33:07 +0000",
+  "from_user": "DavidSantosDias",
+  "from_user_id": 200749589,
+  "from_user_id_str": "200749589",
+  "from_user_name": "David Dias",
+  "geo": null,
+  "id": 252400683976908800,
+  "id_str": "252400683976908800",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1575360005/fortwitter_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1575360005/fortwitter_normal.jpg",
+  "source": "&lt;a href=&quot;http://www.tweetdeck.com&quot;&gt;TweetDeck&lt;/a&gt;",
+  "text": "RT @garannm: RT @garannm: I had an amazing time and some really excellent conversations at @lxjs. Many many thanks to the organizers for their hard work!",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

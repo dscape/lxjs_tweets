@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 14:51:36 +0000",
+  "from_user": "amysue",
+  "from_user_id": 11112,
+  "from_user_id_str": "11112",
+  "from_user_name": "Amy Subach",
+  "geo": null,
+  "id": 252058047030124540,
+  "id_str": "252058047030124545",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1488379287/IMG_1027_normal.JPG",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1488379287/IMG_1027_normal.JPG",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "I wonder if the protest is going to interfere with #boatjs and #lxjs ?",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

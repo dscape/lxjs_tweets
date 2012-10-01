@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 20:12:40 +0000",
+  "from_user": "Retweeteringz",
+  "from_user_id": 460666623,
+  "from_user_id_str": "460666623",
+  "from_user_name": "Adron's Retweets",
+  "geo": null,
+  "id": 252138849256497150,
+  "id_str": "252138849256497154",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1746903920/166338_10150111100216085_604781084_7526685_4675784_n_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1746903920/166338_10150111100216085_604781084_7526685_4675784_n_normal.jpg",
+  "source": "&lt;a href=&quot;http://bufferapp.com&quot;&gt;Buffer&lt;/a&gt;",
+  "text": "RT @indexzero: Slides from my #lxjs talk today, \"Open Source Like a Boss\" available on @nodejitsu (of course). http://t.co/HW2SHeTJ",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

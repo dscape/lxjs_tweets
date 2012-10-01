@@ -1,0 +1,28 @@
+{
+  "created_at": "Sun, 30 Sep 2012 12:56:46 +0000",
+  "from_user": "ejeklint",
+  "from_user_id": 6733372,
+  "from_user_id_str": "6733372",
+  "from_user_name": "Per Ejeklint",
+  "geo": {
+    "coordinates": [
+      0,
+      0
+    ],
+    "type": "Point"
+  },
+  "id": 252391535948218370,
+  "id_str": "252391535948218368",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2521246047/kcohejv6ceyfu89r2ygw_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2521246047/kcohejv6ceyfu89r2ygw_normal.jpeg",
+  "source": "&lt;a href=&quot;http://tapbots.com&quot;&gt;Tweetbot for Mac&lt;/a&gt;",
+  "text": "Watching vid with @janl talking at #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

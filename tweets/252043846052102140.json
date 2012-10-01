@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:55:10 +0000",
+  "from_user": "quimrstorres",
+  "from_user_id": 116720108,
+  "from_user_id_str": "116720108",
+  "from_user_name": "Joaquim Torres",
+  "geo": null,
+  "id": 252043846052102140,
+  "id_str": "252043846052102145",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2654497006/c6b310d7afc79ef6aac7f783e44048bc_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2654497006/c6b310d7afc79ef6aac7f783e44048bc_normal.png",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "@paulca #lxjs @botdream hiiiiiiii!",
+  "to_user": "paulca",
+  "to_user_id": 815973,
+  "to_user_id_str": "815973",
+  "to_user_name": "Paul Campbell"
+}

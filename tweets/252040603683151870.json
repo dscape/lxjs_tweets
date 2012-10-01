@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:42:17 +0000",
+  "from_user": "__lucas",
+  "from_user_id": 11025142,
+  "from_user_id_str": "11025142",
+  "from_user_name": "__lucas",
+  "geo": null,
+  "id": 252040603683151870,
+  "id_str": "252040603683151872",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2256065911/Aq3MoEvCIAA7HjN_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2256065911/Aq3MoEvCIAA7HjN_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitterrific.com&quot;&gt;Twitterrific for Mac&lt;/a&gt;",
+  "text": "My slides from applied.js session up https://t.co/JFbSLw6l #lxjs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

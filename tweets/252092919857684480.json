@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:10:10 +0000",
+  "from_user": "sonicspot",
+  "from_user_id": 14758166,
+  "from_user_id_str": "14758166",
+  "from_user_name": "Marco Oliveira",
+  "geo": {
+    "coordinates": [
+      38.706779,
+      -9.145743
+    ],
+    "type": "Point"
+  },
+  "id": 252092919857684480,
+  "id_str": "252092919857684480",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2261290141/Marco_Oliveira_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2261290141/Marco_Oliveira_normal.jpg",
+  "source": "&lt;a href=&quot;http://instagr.am&quot;&gt;Instagram&lt;/a&gt;",
+  "text": "@Mikeal Rogers at #lxjs giving a talk  @ Mercado da Ribeira http://t.co/bbqqxCDO",
+  "to_user": "mikeal",
+  "to_user_id": 668423,
+  "to_user_id_str": "668423",
+  "to_user_name": "Mikeal"
+}

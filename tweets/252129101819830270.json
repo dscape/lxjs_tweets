@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 19:33:56 +0000",
+  "from_user": "pgte",
+  "from_user_id": 16401507,
+  "from_user_id_str": "16401507",
+  "from_user_name": "Pedro Teixeira",
+  "geo": null,
+  "id": 252129101819830270,
+  "id_str": "252129101819830272",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2580881227/sdfhi3lkzeb93jyr6utc_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2580881227/sdfhi3lkzeb93jyr6utc_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "RT @ctavan: RT @ctavan: I'm on a boat, man! (With @felixge, @tim_kos, @kvz at #lxjs) http://t.co/38tEcbjn",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

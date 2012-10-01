@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 19:28:33 +0000",
+  "from_user": "FriendsOfNodeJS",
+  "from_user_id": 433489706,
+  "from_user_id_str": "433489706",
+  "from_user_name": "Friends of NodeJS",
+  "geo": null,
+  "id": 252490135021686800,
+  "id_str": "252490135021686784",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1686921024/nodejs-1024x768_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1686921024/nodejs-1024x768_normal.png",
+  "source": "&lt;a href=&quot;http://twot.graemef.com&quot;&gt;twotthebot&lt;/a&gt;",
+  "text": "RT @tek_news: RT @tek_news: HNews: Introduction to libuv [video] http://t.co/o2MevRqs",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

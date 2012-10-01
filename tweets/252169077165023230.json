@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 22:12:47 +0000",
+  "from_user": "adam_baldwin",
+  "from_user_id": 14878068,
+  "from_user_id_str": "14878068",
+  "from_user_name": "Adam Baldwin",
+  "geo": null,
+  "id": 252169077165023230,
+  "id_str": "252169077165023232",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2664063349/39a06540de2e1a726510a7b59337cc96_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2664063349/39a06540de2e1a726510a7b59337cc96_normal.jpeg",
+  "source": "&lt;a href=&quot;http://itunes.apple.com/us/app/twitter/id409789998?mt=12&quot;&gt;Twitter for Mac&lt;/a&gt;",
+  "text": "@lxjs Can you tell me on how your video production was done? Impressed with how it turned out and up so quickly…",
+  "to_user": "lxjs",
+  "to_user_id": 508894285,
+  "to_user_id_str": "508894285",
+  "to_user_name": "LxJs"
+}

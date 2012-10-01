@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 20:34:11 +0000",
+  "from_user": "ajlopez",
+  "from_user_id": 14567622,
+  "from_user_id_str": "14567622",
+  "from_user_name": "ajlopez",
+  "geo": null,
+  "id": 252506648885743600,
+  "id_str": "252506648885743616",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/53769404/spiral_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/53769404/spiral_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @NodeJsCommunity: RT @NodeJsCommunity: Introduction to libuv [video] http://t.co/CtnOBwr4 http://t.co/j4ZvuJw3",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

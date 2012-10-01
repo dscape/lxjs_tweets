@@ -1,0 +1,24 @@
+{
+  "created_at": "Sat, 29 Sep 2012 13:36:11 +0000",
+  "from_user": "yawnt",
+  "from_user_id": 264734750,
+  "from_user_id_str": "264734750",
+  "from_user_name": "yawn",
+  "geo": null,
+  "id": 252039068077146100,
+  "id_str": "252039068077146114",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2671172408/69f7a92c8f23688822cbc916d4118594_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2671172408/69f7a92c8f23688822cbc916d4118594_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "@lxjs rubyists, rubyists everywhere",
+  "to_user": "lxjs",
+  "to_user_id": 508894285,
+  "to_user_id_str": "508894285",
+  "to_user_name": "LxJs",
+  "in_reply_to_status_id": 252038913911316480,
+  "in_reply_to_status_id_str": "252038913911316480"
+}

@@ -1,0 +1,24 @@
+{
+  "created_at": "Sun, 30 Sep 2012 00:50:55 +0000",
+  "from_user": "lxjs",
+  "from_user_id": 508894285,
+  "from_user_id_str": "508894285",
+  "from_user_name": "LxJs",
+  "geo": null,
+  "id": 252208870531928060,
+  "id_str": "252208870531928064",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2092185459/twitter_logo_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2092185459/twitter_logo_normal.png",
+  "source": "&lt;a href=&quot;http://tapbots.com/tweetbot&quot;&gt;Tweetbot for iOS&lt;/a&gt;",
+  "text": "@Pg_Fonseca tweet @pgte instead. the operator of this account has retired for the night.",
+  "to_user": "Pg_Fonseca",
+  "to_user_id": 165238586,
+  "to_user_id_str": "165238586",
+  "to_user_name": "Pedro Fonseca",
+  "in_reply_to_status_id": 252208419350646800,
+  "in_reply_to_status_id_str": "252208419350646784"
+}

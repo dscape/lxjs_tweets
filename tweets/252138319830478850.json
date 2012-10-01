@@ -1,0 +1,28 @@
+{
+  "created_at": "Sat, 29 Sep 2012 20:10:34 +0000",
+  "from_user": "awilson820",
+  "from_user_id": 48824937,
+  "from_user_id_str": "48824937",
+  "from_user_name": "Ashley Wilson",
+  "geo": {
+    "coordinates": [
+      38.703011,
+      -9.164557
+    ],
+    "type": "Point"
+  },
+  "id": 252138319830478850,
+  "id_str": "252138319830478848",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/1275403994/me_normal.jpg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/1275403994/me_normal.jpg",
+  "source": "&lt;a href=&quot;http://twitter.com/download/iphone&quot;&gt;Twitter for iPhone&lt;/a&gt;",
+  "text": "OH @ #lxjs boat: \"Did someone find my backpack?\" \"Yes, here!\" \"Thank GOD. I was so worried. I haven't pushed to github in 4 days!\"",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

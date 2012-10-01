@@ -1,0 +1,22 @@
+{
+  "created_at": "Sat, 29 Sep 2012 17:13:21 +0000",
+  "from_user": "bojanv91",
+  "from_user_id": 84852671,
+  "from_user_id_str": "84852671",
+  "from_user_name": "Bojan Veljanovski",
+  "geo": null,
+  "id": 252093720617439230,
+  "id_str": "252093720617439234",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2626287928/9iev8mevsc22136l5tjb_normal.png",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2626287928/9iev8mevsc22136l5tjb_normal.png",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @ialcazar: RT @ialcazar: Cnc.js: Building hardware with #Javascript #lxjs http://t.co/HbtBH6oN",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}

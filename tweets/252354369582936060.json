@@ -1,0 +1,22 @@
+{
+  "created_at": "Sun, 30 Sep 2012 10:29:04 +0000",
+  "from_user": "driverpt",
+  "from_user_id": 210653355,
+  "from_user_id_str": "210653355",
+  "from_user_name": "Luís Duarte",
+  "geo": null,
+  "id": 252354369582936060,
+  "id_str": "252354369582936065",
+  "iso_language_code": "en",
+  "metadata": {
+    "result_type": "recent"
+  },
+  "profile_image_url": "http://a0.twimg.com/profile_images/2269065330/12g4ckrqy7v677cwupt5_normal.jpeg",
+  "profile_image_url_https": "https://si0.twimg.com/profile_images/2269065330/12g4ckrqy7v677cwupt5_normal.jpeg",
+  "source": "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;",
+  "text": "RT @lxjs: RT @lxjs: If @lxjs and @jsconfeu aren’t enough JS for you you can get a €200 ticket for @NodeDublin with the code LXJS2012 (limited numb ...",
+  "to_user": null,
+  "to_user_id": 0,
+  "to_user_id_str": "0",
+  "to_user_name": null
+}
